@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="348bc1f3-760a-4422-a1fa-e192bfe6ad45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/APPENDIX/ListOfPublications.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APPENDIX/References.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BODY/chapter1.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BODY/chapter2.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BODY/chapter3.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BODY/chapter4.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BODY/chapter5.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FORMAT/my_format.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FORMAT/my_keywords.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figures/FigureA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figures/FigureB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figures/ntu_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NTUdis.sty" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nanyang Technological University (NTU) Qualification Examination report template (1).zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PREFACE/abstract.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PREFACE/frontmatter.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PREFACE/titlepage.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.aux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.bbl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.blg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.lof" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.lot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.synctex.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QE.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hut11.clo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myIEEEtran.bst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ntu_qe.cls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template_Prosper.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/texput.log" beforeDir="false" />
-    </list>
+    <list default="true" id="348bc1f3-760a-4422-a1fa-e192bfe6ad45" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Xampp1/htdocs/admin-dean3" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,7 +36,17 @@
       <option name="presentableId" value="Default" />
       <updated>1642500511323</updated>
       <workItem from="1642500515935" duration="8000" />
+      <workItem from="1642503448258" duration="34000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1642503479784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642503479784" />
   </component>
 </project>
