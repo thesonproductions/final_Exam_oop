@@ -25,6 +25,8 @@
 \usetikzlibrary{positioning,automata}
 \usepackage{scrextend}
 \usepackage{longfbox}
+\usepackage{indentfirst}
+
 %Môi trường Lời giải
 %\newtheorem{theorem}{Định lý}[chapter]
 %\newtheorem{definition}{Định nghĩa}[chapter]
@@ -41,13 +43,13 @@
 \pagestyle{fancy}
 \lhead{}
 \chead{}
-\rhead{Nguyên lý Hệ Điều Hành}
+\rhead{Báo cáo Design Pattern}
 \lfoot{}
 \cfoot{\thepage}
 \rfoot{}
 
-
-
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
 \usepackage{xcolor}
 \usepackage{listings}
 
@@ -75,8 +77,8 @@
 	tabsize=2,
 	language=C
 }
-
-
+\usepackage{subfigure}
+\usepackage{wrapfig}
 \begin{document}
 %% thêm trang bìa vào
 \input{LAYOUT/Title}
@@ -84,61 +86,21 @@
 \input{LAYOUT/Contents}
 
 \newpage
-\chapter*{Mở đầu}
-%Đồng bộ tiến trình qua đoạn găng là một trong những vấn đề quan trọng của việc Quản lý tiến trình trong Hệ Điều Hành. Mỗi một bài toán được đặt ra đều mô phỏng một vấn đề nào đấy có thể xảy ra trong quá trình máy tính hoạt động, khi mà các tài nguyên bị hạn chế về khả năng sử dụng chung lại cần đồng thời cho nhiều tiến trình. Nếu như không có việc điều phối hợp lý có thể dẫn đến tính không vẹn toàn dữ liệu ở tài nguyên, khiến cho các tiến trình chạy ra các kết quả sai. Do vậy, điều này dẫn đến nhu cầu về việc cần các giải thuật cho các bài toán đã được đặt ra, thoả mãn các yêu cầu loại trừ lẫn nhau, tiến triển và chờ đợi hữu hạn. 
+%input lời mở đầu
+\input{LAYOUT/Introduction}
+%chapter 1
+\input{LAYOUT/CHAPTER/chapter1}
 
-%Bên cạnh các bài toán kinh điển trong đồng bộ tiến trình đã được nghiên cứu nhiều như Producer-Consumer, Readers-Writers, Sleeping Barber, Dining Philosophy, còn rất nhiều những bài toán khác được đặt ra cũng miêu tả những tình huống có thể xảy ra trong lúc các tiến trình trong máy tính được thực thi. Một số lượng các bài toán đồng bộ tiến trình đều được giải quyết nhờ ứng dụng kĩ thuật đèn báo( Semaphor), và hầu hết nhũng bài toán được nêu trong báo cáo này cũng không phải ngoại lệ. Tuy nhiên việc dùng kĩ thuật này như thế nào thì phải tuỳ vào yêu cầu và đặc thù của vấn đề đặt ra, do vậy hiểu được cách hoạt động của Semaphor cũng vô cùng quan trọng.
+\input{LAYOUT/CHAPTER/chapter2}
 
-%Nội dung của báo cáo được trình bày trong 3 chương, trọng tâm là ở chương 2 trình bày các bài toán ít kinh điển hơn trong dồng bộ tiến trình. Trong số đó có 4 bài vận dụng kĩ thuật đèn báo, chỉ có duy nhất bài số 2 ( ABA Problem) sử dụng kĩ thuật khác. Các chương còn lại, chương 1 nhắc lại sơ qua về Semaphor, cũng như để thống nhât về định nghĩa ( vì Semaphor cũng có loại I, loại II), và chương 3 là tổng kết. Các mã giả ( pseudo code) trong bài này tuỳ người trình bày mà có thể viết theo C hoặc Python.
+\input{LAYOUT/CHAPTER/chapter3}
 
-%Công việc của từng thành viên trong nhóm:
-%\begin{itemize}
- %   \item Lê Tường Khanh trình bày các bài toán Cigarette smokers problem, ABA problem, và Single-lane Problem
-  %  \item Nguyễn Tiến Long trình bày các bài toán Dining Savage, The Roller Coaster Problem và bài mở rộng của nó Multi-car Roller Coaster Problem.
-%\end{itemize}
+\input{LAYOUT/CHAPTER/chapter4}
 
-%Chúng em xin cảm ơn thầy Phạm Đăng Hải vì những giờ giảng dạy đầy nhiệt tình.  Nếu như trong báo cáo còn có những thiếu sót, kính mong thầy và các bạn nhiệt tình đóng góp ý kiến xây dựng để báo cáo ngày càng hoàn thiện hơn.
-\chapter{}
-\chapter{}
+\input{LAYOUT/CHAPTER/chapter5}
 
 
-
-\section{}
-
-\subsection{}
-
-
-\section{}
-\subsection{}
-
-\subsection{}
-
-\subsection{}
-
-\subsection{}
- 
-\section{}
-\subsection{}
-\subsection{}
-\section{}
-\subsection{}
-
-\subsection{}
-
-\subsection{}
-\subsection{}
-
-\section{}
-\subsection{}
-
-\subsection{}
-
-\subsection{}
-\subsection{}
-
-\subsection{}
-
-\chapter{Tổng kết}
+\chapter*{Tổng kết}
 %Báo cáo đã tổng hợp lại các bài toán khác trong đồng bộ tiến trình qua đoạn găng, bên cạnh những bài kinh điển đã được có nhiều nghiên cứu, phân tích các yêu cầu, vấn đề của từng bài và trình bày, phân tích giải thuật hiện có. Qua đó cho thấy tầm quan trọng của việc quản lý và điều độ tiến trình. Ngoài ra các bài toán được trình bày hầu hết đều sử dụng kĩ thuật đèn báo, và mỗi bài lại có những cách giải quyết khác nhau, cho thấy việc phải vận dụng kĩ thuật này linh hoạt, sáng tạo.
 
 %Tuy nhiên các giải thuật đã trình bày có thể vẫn chưa phải là tốt nhất, và có thể có những kịch bản mà giải thuật không lường trước được, vì vậy, để bài báo cáo được hoàn thiện hơn, các thành viên trong nhóm rất mong nhận được sự đóng góp ý kiến cũng như đưa ra những nhận xét, đánh giá của thầy và các bạn. 
