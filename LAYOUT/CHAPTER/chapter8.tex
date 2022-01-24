@@ -1,0 +1,15 @@
+\chapter{Bridge Pattern}
+
+\section{Định nghĩa}
+Bridge Pattern là một trong những Pattern thuộc nhóm cấu trúc (Structural Pattern). Ý tưởng của nó là tách phần trừu tượng (abstraction) ra khỏi tính hiện thực (implementation) của nó. Từ đó có thể dễ dàng chỉnh sửa hoặc thay thế mà không làm ảnh hưởng đến những nơi có sử dụng lớp ban đầu. Điều đó có nghĩa là, ban đầu chúng ta thiết kế một class với rất nhiều tiến trình, bây giờ chúng ta không muốn để những tiến trình đó trong class đó nữa. Vì thế, chúng ta sẽ tạo ra một class khác và di chuyển các tiến trình đó qua class mới. Khi đó, trong lớp cũ sẽ giữ một đối tượng thuộc về lớp mới, và đối tượng này sẽ chịu trách nhiệm xử lý thay cho lớp ban đầu.
+
+\section{Mục đích sử dụng}
+\begin{itemize}
+\item Tách ràng buộc giữa Abstraction (phần trìu tượng) và Implementation (phần thực thi) để có thể dễ dàng mở rộng độc lập nhau. Thay vì liên hệ với nhau bằng quan hệ kế thừa, hai thành phần này liên hệ với nhau thông qua quan hệ “chứa trong” (object composition).
+\item Sử dụng khi cả Abstraction và Implementation của chúng nên được mở rộng bằng subclass.
+\item Sử dụng ở những nơi mà những thay đổi được thực hiện trong implement không ảnh hưởng đến phía client.
+\end{itemize}
+
+\section{Bridge Pattern trong thực tế}
+
+\section{Mô hình cấu trúc}

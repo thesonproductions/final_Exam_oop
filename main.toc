@@ -1,8 +1,8 @@
 \contentsline {chapter}{\numberline {1}Singleton Pattern}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Định nghĩa}{5}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Mục đích sử dụng}{5}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Trường hợp cụ thể}{5}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Mô hình câu trúc}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.3}Singleton Pattern trong thực tế}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Mô hình cấu trúc}{6}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Observer Pattern}{8}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Định nghĩa}{8}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Mục đích sử dụng}{8}{section.2.2}%
@@ -28,4 +28,29 @@
 \contentsline {subsection}{\numberline {5.2.1}Định nghĩa}{38}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}Mục đích sử dụng}{38}{subsection.5.2.2}%
 \contentsline {subsection}{\numberline {5.2.3}Mô hình câu trúc}{39}{subsection.5.2.3}%
-\contentsline {chapter}{\hskip 1em\relax \ \bf Tài liệu tham khảo}{48}{chapter*.4}%
+\contentsline {chapter}{\numberline {6}Adapter Pattern}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Định nghĩa}{47}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Mục đích sử dụng}{47}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Adapter Pattern trong thực tế}{47}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Mô hình cấu trúc}{49}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Command Pattern}{53}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Định nghĩa}{53}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Mục đích sử dụng}{53}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Command Pattern trong thực tế}{54}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Mô hình cấu trúc}{54}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Bridge Pattern}{55}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Định nghĩa}{55}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Mục đích sử dụng}{55}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Bridge Pattern trong thực tế}{55}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Mô hình cấu trúc}{55}{section.8.4}%
+\contentsline {chapter}{\numberline {9}Strategy Pattern}{56}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Định nghĩa}{56}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Mục đích sử dụng}{56}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Strategy Pattern trong thực tế}{57}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Mô hình cấu trúc}{57}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Builder Pattern}{58}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Định nghĩa}{58}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Mục đích sử dụng}{58}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Builder Pattern trong thực tế}{58}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Mô hình cấu trúc}{58}{section.10.4}%
+\contentsline {chapter}{\hskip 1em\relax \ \bf Tài liệu tham khảo}{60}{chapter*.4}%
