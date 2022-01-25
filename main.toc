@@ -12,44 +12,44 @@
 \contentsline {section}{\numberline {3.1}Định nghĩa}{17}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Mục đích sử dụng}{17}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Mô hình cấu trúc}{18}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Iterator Pattern trong thực tế}{27}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Decorator Pattern}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Định nghĩa}{29}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Mục đích sử dụng}{29}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Mô hình cấu trúc}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Decorator Pattern trong thực tế}{33}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Factory Pattern }{34}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Factory Pattern – Factory method}{34}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Định nghĩa}{34}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Mục đích sử dụng}{34}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Mô hình câu trúc}{35}{subsection.5.1.3}%
-\contentsline {subsection}{\numberline {5.1.4}Factory Pattern trong thực tế}{40}{subsection.5.1.4}%
-\contentsline {section}{\numberline {5.2}Factory Pattern – Abstract Factory method}{40}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Định nghĩa}{40}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Mục đích sử dụng}{40}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Mô hình câu trúc}{41}{subsection.5.2.3}%
-\contentsline {chapter}{\numberline {6}Adapter Pattern}{49}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Định nghĩa}{49}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Mục đích sử dụng}{49}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Mô hình cấu trúc}{50}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Adapter Pattern trong thực tế}{53}{section.6.4}%
-\contentsline {chapter}{\numberline {7}Command Pattern}{55}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Định nghĩa}{55}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Mục đích sử dụng}{55}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Mô hình cấu trúc}{56}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Command Pattern trong thực tế}{60}{section.7.4}%
-\contentsline {chapter}{\numberline {8}Bridge Pattern}{61}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Định nghĩa}{61}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Mục đích sử dụng}{61}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Mô hình cấu trúc}{62}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Bridge Pattern trong thực tế}{66}{section.8.4}%
-\contentsline {chapter}{\numberline {9}Strategy Pattern}{68}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Định nghĩa}{68}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Mục đích sử dụng}{68}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Mô hình cấu trúc}{68}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Strategy Pattern trong thực tế}{73}{section.9.4}%
-\contentsline {chapter}{\numberline {10}Builder Pattern}{75}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Định nghĩa}{75}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Mục đích sử dụng}{75}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Mô hình cấu trúc}{76}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Builder Pattern trong thực tế}{79}{section.10.4}%
+\contentsline {section}{\numberline {3.4}Iterator Pattern trong thực tế}{28}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Decorator Pattern}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Định nghĩa}{30}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Mục đích sử dụng}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Mô hình cấu trúc}{31}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Decorator Pattern trong thực tế}{34}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Factory Pattern }{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Factory Pattern – Factory method}{35}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Định nghĩa}{35}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Mục đích sử dụng}{35}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Mô hình câu trúc}{36}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Factory Pattern trong thực tế}{41}{subsection.5.1.4}%
+\contentsline {section}{\numberline {5.2}Factory Pattern – Abstract Factory method}{41}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Định nghĩa}{41}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Mục đích sử dụng}{41}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Mô hình câu trúc}{42}{subsection.5.2.3}%
+\contentsline {chapter}{\numberline {6}Adapter Pattern}{50}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Định nghĩa}{50}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Mục đích sử dụng}{50}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Mô hình cấu trúc}{51}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Adapter Pattern trong thực tế}{54}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Command Pattern}{56}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Định nghĩa}{56}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Mục đích sử dụng}{56}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Mô hình cấu trúc}{57}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Command Pattern trong thực tế}{61}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Bridge Pattern}{62}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Định nghĩa}{62}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Mục đích sử dụng}{62}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Mô hình cấu trúc}{63}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Bridge Pattern trong thực tế}{67}{section.8.4}%
+\contentsline {chapter}{\numberline {9}Strategy Pattern}{69}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Định nghĩa}{69}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Mục đích sử dụng}{69}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Mô hình cấu trúc}{69}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Strategy Pattern trong thực tế}{74}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Builder Pattern}{76}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Định nghĩa}{76}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Mục đích sử dụng}{76}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Mô hình cấu trúc}{77}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Builder Pattern trong thực tế}{80}{section.10.4}%
