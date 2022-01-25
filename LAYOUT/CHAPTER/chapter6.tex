@@ -8,18 +8,6 @@ Adapter Pattern chuyển đổi giao diện của một lớp thành giao diện
 \section{Mục đích sử dụng}
 Trong thực tế có những tình huống khi muốn sử dụng một loại dữ liệu hay thư viện mà API của nó không tương thích với API mà mình đang sử dụng. Khi đó chúng ta không muốn thay đổi hay chỉnh sửa code/hệ thống của nhà cung cấp và của mình vì những thay đổi đó có thể chỉ là nhất thời, trong tương lai có thể không sử dụng đến API của nhà cung cấp nữa. Vì thế, Adapter Pattern được sử dụng để chuyển đổi giao diện(interface) của một lớp thành giao diện khác mà client mong muốn.
 
-\section{Adapter Pattern trong thực tế}
-Adapter được ứng dụng rộng rãi trong nhiều trường hợp, ta thường thấy Adapter xuất hiện trong những tình huống cần nâng cấp hệ thống cũ và có nhiều class cũ nhưng vẫn chứa phương thức quan trọng, làm cho hệ thống hiệu quả hơn thông qua việc làm cho các component giao tiếp với nhau dù không liên quan đến nhau. Một ví dụ thực tiễn: Sử dụng Enumerator như một Iterator trong Java:\\
-\begin{center}
-\includegraphics{GALLEYS/images/chapter6/example1}\\
-\end{center}
-Ở Java, Enumerator và Iterator đều là những con trỏ để duyệt và truy cập phần tử của một collection như Vector, Stack, Hashtable,... Enumerator xuất hiện ở JDK 1.0 và Iterator được ra mắt ở JDK 1.2. Enumerator cung cấp 2 phương thức hasMoreElement() và nextElement() để kiểm tra sự tồn tại và lấy phần tử tiếp theo trong collection. Tuy nhiên, nó không hỗ trợ các phương thức để thay đổi cấu trúc của collection, và Iterator xuất hiện như là phiên bản cải tiến của Enumerator, với các phương thức hasNext(), next() và remove().\\
-Điều này sẽ dẫn đến tình huống đôi khi chúng ta vẫn gặp code sử dụng Enumerator interface, nhưng ta chỉ muốn sử dụng Iterator. Và đó sẽ là lúc những lập trình viên thiết kế Iterator phải sử dụng tới Adapter: chuyển hóa những phương thức của Iterator thành những phương thức của Enumerator tương ứng.\\
-\begin{center}
-\includegraphics{GALLEYS/images/chapter6/example2}\\
-\end{center}
-Adapter chuyển từ hasNext(), next() sang hasMoreElements() và nextElement() là có thể, nhưng vì Enumeration vốn không hỗ trợ remove() nên adapter cũng không thể làm được, không thể triển khai một hàm remove() đủ chức năng ở trong class adapter được. Lúc này, chúng ta chỉ có thể throw exception để báo cho client.
-
 \section{Mô hình cấu trúc}
 \begin{center}
 \includegraphics{GALLEYS/images/chapter6/diagram}\\
@@ -62,3 +50,18 @@ Chúng ta tiến hành theo các bước như sau:
 \begin{center}
 \includegraphics{GALLEYS/images/chapter6/code4}
 \end{center}
+
+\section{Adapter Pattern trong thực tế}
+Adapter được ứng dụng rộng rãi trong nhiều trường hợp, ta thường thấy Adapter xuất hiện trong những tình huống cần nâng cấp hệ thống cũ và có nhiều class cũ nhưng vẫn chứa phương thức quan trọng, làm cho hệ thống hiệu quả hơn thông qua việc làm cho các component giao tiếp với nhau dù không liên quan đến nhau. Một ví dụ thực tiễn: Sử dụng Enumerator như một Iterator trong Java:\\
+\begin{center}
+	\includegraphics{GALLEYS/images/chapter6/example1}\\
+\end{center}
+
+Ở Java, Enumerator và Iterator đều là những con trỏ để duyệt và truy cập phần tử của một collection như Vector, Stack, Hashtable,... Enumerator xuất hiện ở JDK 1.0 và Iterator được ra mắt ở JDK 1.2. Enumerator cung cấp 2 phương thức hasMoreElement() và nextElement() để kiểm tra sự tồn tại và lấy phần tử tiếp theo trong collection. Tuy nhiên, nó không hỗ trợ các phương thức để thay đổi cấu trúc của collection, và Iterator xuất hiện như là phiên bản cải tiến của Enumerator, với các phương thức hasNext(), next() và remove().\\
+
+Điều này sẽ dẫn đến tình huống đôi khi chúng ta vẫn gặp code sử dụng Enumerator interface, nhưng ta chỉ muốn sử dụng Iterator. Và đó sẽ là lúc những lập trình viên thiết kế Iterator phải sử dụng tới Adapter: chuyển hóa những phương thức của Iterator thành những phương thức của Enumerator tương ứng.\\
+\begin{center}
+	\includegraphics{GALLEYS/images/chapter6/example2}\\
+\end{center}
+
+Adapter chuyển từ hasNext(), next() sang hasMoreElements() và nextElement() là hoàn toàn có thể, nhưng vì Enumeration vốn không hỗ trợ remove() nên adapter cũng không thể làm được, không thể triển khai một hàm remove() đủ chức năng ở trong class adapter được. Lúc này, chúng ta chỉ có thể throw exception để báo cho client.

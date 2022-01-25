@@ -16,23 +16,6 @@ Mục đích và lợi ích:
 \item Thống nhất về naming convention: giúp cho các developer có thể hiểu về cấu trúc source code.
 \end{itemize}
 
-\subsection{Trường hợp cụ thể}
-Factory Pattern được sử dụng khi:
-
-\begin{itemize}
-	\item Chúng ta có một super class với nhiều class con và dựa trên đầu vào, chúng ta cần trả về một class con. Mô hình này giúp chúng ta đưa trách nhiệm của việc khởi tạo một lớp từ phía người dùng (client) sang lớp Factory.
-	\item Chúng ta không biết sau này sẽ cần đến những lớp con nào nữa. Khi cần mở rộng, hãy tạo ra sub class và implement thêm vào factory method cho việc khởi tạo sub class này.\\
-Bạn có thể thấy Factory Pattern được áp dụng trong:
-\item JDK: java.util.Calendar, ResourceBundle, NumberFormat, …
-\item BeanFactory trong Spring Framework.
-\item SessionFactory trong Hibernate Framework.
-\end{itemize}
-Bạn có thể thấy Factory Pattern được áp dụng trong:
-\begin{itemize}
-	\item JDK: java.util.Calendar, ResourceBundle, NumberFormat, …
-	\item BeanFactory trong Spring Framework.
-	\item SessionFactory trong Hibernate Framework.
-\end{itemize}
 \subsection{Mô hình câu trúc}
 \includegraphics{GALLEYS/images/chapter5/diagram1}\\
 \textbf{mô tả mô hình} : Product là obj cần phải khởi tạo, Framework là factory và Application là nơi quyết định xem đối tượng nào khởi tạo.\\
@@ -84,6 +67,24 @@ Nhận xét: ở đây chúng ta có thể thấy đoạn code này phân thành
 	\includegraphics[height=.55\textheight]{GALLEYS/images/chapter5/images8}
 	\includegraphics[height=.4\textheight]{GALLEYS/images/chapter5/images9}
 \end{center}
+
+\subsection{Factory Pattern trong thực tế}
+Factory Pattern được sử dụng khi:
+
+\begin{itemize}
+	\item Chúng ta có một super class với nhiều class con và dựa trên đầu vào, chúng ta cần trả về một class con. Mô hình này giúp chúng ta đưa trách nhiệm của việc khởi tạo một lớp từ phía người dùng (client) sang lớp Factory.
+	\item Chúng ta không biết sau này sẽ cần đến những lớp con nào nữa. Khi cần mở rộng, hãy tạo ra sub class và implement thêm vào factory method cho việc khởi tạo sub class này.\\
+	Bạn có thể thấy Factory Pattern được áp dụng trong:
+	\item JDK: java.util.Calendar, ResourceBundle, NumberFormat, …
+	\item BeanFactory trong Spring Framework.
+	\item SessionFactory trong Hibernate Framework.
+\end{itemize}
+Bạn có thể thấy Factory Pattern được áp dụng trong:
+\begin{itemize}
+	\item JDK: java.util.Calendar, ResourceBundle, NumberFormat, …
+	\item BeanFactory trong Spring Framework.
+	\item SessionFactory trong Hibernate Framework.
+\end{itemize}
 
 \section{Factory Pattern – Abstract Factory method}
 \subsection{Định nghĩa}

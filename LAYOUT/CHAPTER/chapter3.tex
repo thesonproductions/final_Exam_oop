@@ -7,15 +7,8 @@ Nói cách khác, một Iterator được thiết kế cho phép xử lý nhiề
 
 \section{Mục đích sử dụng}
 Nếu trong project của các bạn có quá nhiều cấu trúc dạng danh sách như cấu trúc cây, mảng, ngăn xếp, hàng đợi.... Và bạn muốn có một quy tắc chung cho chúng như đều có thêm sửa xoá chẳng hạn. Như vậy lúc này chúng ta có thể tìm tới Iterator.
-\section{Trường hợp cụ thể}
-Iterator Pattern được áp dụng khi:
 
-\begin{itemize}
-	\item Cần truy cập nội dung của đối tượng trong tập hợp mà không cần biết nội dung cài đặt bên trong nó.\\
-	\item Hỗ trợ truy xuất nhiều loại tập hợp khác nhau.\\
-	\item Cung cấp một interface duy nhất để duyệt qua các phần tử của một tập hợp.\\
-\end{itemize}
-\section{Mô hình câu trúc}
+\section{Mô hình cấu trúc}
 \includegraphics[width=\columnwidth]{GALLEYS/images/chapter3/diagram1}\\
 \textbf{Aggregate} : là một interface định nghĩa định nghĩa các phương thức để tạo Iterator object.\\
 \textbf{ConcreteAggregate} : cài đặt các phương thức của Aggregate, nó cài đặt interface tạo Iterator để trả về một thể hiện của ConcreteIterator thích hợp. \\
@@ -90,3 +83,12 @@ Và đây là kết quả:
 \end{center}
 Đây là một phần của kết quả.\\
 Như vậy Iterator pattern giúp chúng ta in ra danh sách các phần tử một cách rất đơn giản, nó là một trong những pattern được ứng dụng khá cao trong thực tế.
+
+\section{Iterator Pattern trong thực tế}
+Iterator Pattern được áp dụng khi:
+
+\begin{itemize}
+	\item Cần truy cập nội dung của đối tượng trong tập hợp mà không cần biết nội dung cài đặt bên trong nó.\\
+	\item Hỗ trợ truy xuất nhiều loại tập hợp khác nhau.\\
+	\item Cung cấp một interface duy nhất để duyệt qua các phần tử của một tập hợp.\\
+\end{itemize}

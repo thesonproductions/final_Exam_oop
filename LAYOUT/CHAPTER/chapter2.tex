@@ -11,16 +11,8 @@ Mục đích và lợi ích:
 	\item	Một đối tượng có thể thông báo đến một số lượng không giới hạn các đối tượng khác.
 \end{itemize}
 Bên cạnh những lợi ích, chúng ta cần xem xét đến trường hợp cập nhật không mong muốn (Unexpected update) của Subject. Bởi vì các Observer không biết về sự hiện diện của nhau, nó có thể gây tốn nhiều chi phí của việc thay đổi Subject.
-\section{Trường hợp cụ thể}
-Observer Pattern được áp dụng khi:
-
-\begin{itemize}
-	\item Khi thay đổi một đối tượng, yêu cầu thay đổi đối tượng khác và chúng ta không biết có bao nhiêu đối tượng cần thay đổi, những đối tượng này là ai.\\
-	\item Sử dụng trong ứng dụng broadcast-type communication.\\
-	\item Sử dụng để quản lý sự kiện (Event management).\\
-	\item Sử dụng trong mẫu mô hình MVC (Model View Controller Pattern) : trong MVC, mẫu này được sử dụng để tách Model khỏi View. View đại diện cho Observer và Model là đối tượng Observable.
-\end{itemize}
-\section{Mô hình câu trúc}
+cấu
+\section{Mô hình cấu trúc}
 \includegraphics{GALLEYS/images/chapter2/diagram1}\\
 \textbf{Subject} : cung cấp các phương thức để thêm, loại bỏ, thông báo observer.\\
 \textbf{Observer} : định nghĩa một phương thức update() cho các đối tượng sẽ được subject thông báo đến khi có sự thay đổi trạng thái. \\
@@ -73,6 +65,16 @@ Toàn bộ dữ liệu được thu thập từ trạm thời tiết\\
 Trạm thời tiết sẽ hiển thi thông tin\\
 Đây là kết quả:\\\\
 \includegraphics[width=\columnwidth,height=.3\textheight]{GALLEYS/images/chapter2/images11}\\\\
-Mẫu thiết kế Observer (quan sát) có thể được sử dụng bất cứ khi nào mà một đối tượng có sự thay đổi trạng thái, tất các thành phần phụ thuộc của nó sẽ được thông báo và cập nhật một cách tự động.\\
+Mẫu thiết kế Observer (quan sát) có thể được sử dụng bất cứ khi nào mà một đối tượng có sự thay đổi trạng thái, tất các thành phần phụ thuộc của nó sẽ được thông báo và cập nhật một cách tự động.\\tế
+
+\section{Observer Pattern trong thực tế}
+Observer Pattern được áp dụng khi:
+
+\begin{itemize}
+	\item Khi thay đổi một đối tượng, yêu cầu thay đổi đối tượng khác và chúng ta không biết có bao nhiêu đối tượng cần thay đổi, những đối tượng này là ai.\\
+	\item Sử dụng trong ứng dụng broadcast-type communication.\\
+	\item Sử dụng để quản lý sự kiện (Event management).\\
+	\item Sử dụng trong mẫu mô hình MVC (Model View Controller Pattern) : trong MVC, mẫu này được sử dụng để tách Model khỏi View. View đại diện cho Observer và Model là đối tượng Observable.
+\end{itemize}
 
 

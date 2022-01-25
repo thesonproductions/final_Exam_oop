@@ -1,14 +1,23 @@
-\chapter*{Mở đầu}
-Đồng bộ tiến trình qua đoạn găng là một trong những vấn đề quan trọng của việc Quản lý tiến trình trong Hệ Điều Hành. Mỗi một bài toán được đặt ra đều mô phỏng một vấn đề nào đấy có thể xảy ra trong quá trình máy tính hoạt động, khi mà các tài nguyên bị hạn chế về khả năng sử dụng chung lại cần đồng thời cho nhiều tiến trình. Nếu như không có việc điều phối hợp lý có thể dẫn đến tính không vẹn toàn dữ liệu ở tài nguyên, khiến cho các tiến trình chạy ra các kết quả sai. Do vậy, điều này dẫn đến nhu cầu về việc cần các giải thuật cho các bài toán đã được đặt ra, thoả mãn các yêu cầu loại trừ lẫn nhau, tiến triển và chờ đợi hữu hạn. 
+\chapter*{Giới thiệu}
 
-Bên cạnh các bài toán kinh điển trong đồng bộ tiến trình đã được nghiên cứu nhiều như Producer-Consumer, Readers-Writers, Sleeping Barber, Dining Philosophy, còn rất nhiều những bài toán khác được đặt ra cũng miêu tả những tình huống có thể xảy ra trong lúc các tiến trình trong máy tính được thực thi. Một số lượng các bài toán đồng bộ tiến trình đều được giải quyết nhờ ứng dụng kĩ thuật đèn báo( Semaphor), và hầu hết nhũng bài toán được nêu trong báo cáo này cũng không phải ngoại lệ. Tuy nhiên việc dùng kĩ thuật này như thế nào thì phải tuỳ vào yêu cầu và đặc thù của vấn đề đặt ra, do vậy hiểu được cách hoạt động của Semaphor cũng vô cùng quan trọng.
-
-Nội dung của báo cáo được trình bày trong 3 chương, trọng tâm là ở chương 2 trình bày các bài toán ít kinh điển hơn trong dồng bộ tiến trình. Trong số đó có 4 bài vận dụng kĩ thuật đèn báo, chỉ có duy nhất bài số 2 ( ABA Problem) sử dụng kĩ thuật khác. Các chương còn lại, chương 1 nhắc lại sơ qua về Semaphor, cũng như để thống nhât về định nghĩa ( vì Semaphor cũng có loại I, loại II), và chương 3 là tổng kết. Các mã giả ( pseudo code) trong bài này tuỳ người trình bày mà có thể viết theo C hoặc Python.
-
-Công việc của từng thành viên trong nhóm:
+Design Patterns (mẫu thiết kế) là một kỹ thuật trong lập trình hướng đối tượng, nó khá quan trọng và có thể nói mọi lập trình viên muốn giỏi đều phải biết. Năm 1994, bốn tác giả Erich Gamma, Richard Helm, Ralph Johnson và John Vlissides đã cho xuất bản một cuốn sách với tiêu đề Design Patterns – Elements of Reusable Object-Oriented Software, đây là khởi nguồn của khái niệm design pattern trong lập trình phần mềm. Bốn tác giả trên được biết đến rộng rãi dưới tên Gang of Four (bộ tứ). Theo quan điểm của bốn người, design pattern chủ yếu được dựa theo những quy tắc sau đây về thiết kế hướng đối tượng:
 \begin{itemize}
-	\item Lê Tường Khanh trình bày các bài toán Cigarette smokers problem, ABA problem, và Single-lane Problem
-	\item Nguyễn Tiến Long trình bày các bài toán Dining Savage, The Roller Coaster Problem và bài mở rộng của nó Multi-car Roller Coaster Problem.
+\item Lập trình cho interface chứ không phải để implement interface đó.
+\item Ưu tiên object composition (chứa trong) hơn là inheritance (thừa kế).
 \end{itemize}
 
-Chúng em xin cảm ơn thầy Phạm Đăng Hải vì những giờ giảng dạy đầy nhiệt tình.  Nếu như trong báo cáo còn có những thiếu sót, kính mong thầy và các bạn nhiệt tình đóng góp ý kiến xây dựng để báo cáo ngày càng hoàn thiện hơn.
+Design Pattern được sử dụng thường xuyên trong các ngôn ngữ OOP. Nó cung cấp cho chúng ta các “mẫu thiết kế”, giải pháp để giải quyết các vấn đề chung, thường gặp trong lập trình. Các vấn đề mà chúng ta gặp phải có thể chúng ta sẽ tự nghĩ ra cách giải quyết nhưng có thể nó chưa phải là tối ưu. Design Pattern giúp chúng ta giải quyết vấn đề một cách tối ưu nhất, cung cấp cho chúng ta các giải pháp trong lập trình OOP.\\
+
+Có thể chúng ta đã gặp design patterns ở đâu đó trong các ứng dụng, cũng có thể chúng ta đã từng sử dụng những mẫu tương tự như design pattern để giải quyết những tình huống của mình như khi chúng ta giải một bài toán/vấn đề bất kỳ, nhưng chúng ta không rõ hoặc không có một khái niệm gì về nó.\\ 
+
+Trong báo cáo này chúng em xin được làm rõ về 10 design patterns ở nhóm 1, về khái niệm cũng như mục đích sử dụng cho đến mô hình cấu trúc với các ví dụ cụ thể, cũng như ứng dụng của chúng trong lập trình thực tế.\\
+
+Nội dung của báo cáo được trình bày trong 10 chương chính tương ứng với 10 design patterns thuộc nhóm 1. Trong mỗi chương trình bài về một design pattern với các phần: định nghĩa, mục đích sử dụng, mô hình cấu trúc kèm với code minh họa cùng với việc giải thích, và cuối cùng là những ứng dụng của design pattern đó trong thực tế.\\
+\newpage
+Công việc của từng thành viên trong nhóm:
+\begin{itemize}
+	\item \textbf{Phan Thế Sơn} trình bày về Singleton Pattern, Observer Pattern, Iterator Pattern, Decorator Pattern và Factory Pattern (chương 1-5)
+	\item \textbf{Lê Quang Trường} trình bày về Adapter Pattern, Command Pattern, Bridge Pattern, Strategy Pattern và Builder Pattern (chương 6-10)
+\end{itemize}
+
+Chúng em xin cảm ơn thầy Quản Thái Hà vì những giờ giảng dạy đầy nhiệt tình và đam mê.  Nếu như trong báo cáo còn có những thiếu sót, kính mong thầy nhiệt tình đóng góp ý kiến xây dựng để báo cáo ngày càng hoàn thiện hơn.

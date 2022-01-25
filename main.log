@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.21)  23 JAN 2022 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.21)  25 JAN 2022 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1454,7 +1454,7 @@ LaTeX Info: Redefining \nameref on input line 82.
 
 \c@lstlisting=\count364
  (LAYOUT/Title.tex
-<GALLEYS/Logo-DH-Khoa-Hoc-Tu-Nhien-Ha-Noi-VNU-HUS.png, id=230, 850.23529pt x 85
+<GALLEYS/Logo-DH-Khoa-Hoc-Tu-Nhien-Ha-Noi-VNU-HUS.png, id=226, 850.23529pt x 85
 0.23529pt>
 File: GALLEYS/Logo-DH-Khoa-Hoc-Tu-Nhien-Ha-Noi-VNU-HUS.png Graphic file (type p
 ng)
@@ -1505,71 +1505,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[3] (LAYOUT/Introduction.tex) (LAYOUT/CHAPTER/chapter1.tex [4
+[3] (LAYOUT/Introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
-]
-Ch\uhorn \ohorn ng 1.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-<GALLEYS/images/chapter1/diagram01.png, id=311, 386.19281pt x 147.55125pt>
-File: GALLEYS/images/chapter1/diagram01.png Graphic file (type png)
-<use GALLEYS/images/chapter1/diagram01.png>
-Package pdftex.def Info: GALLEYS/images/chapter1/diagram01.png  used on input l
-ine 18.
-(pdftex.def)             Requested size: 386.19185pt x 147.55087pt.
-[5
+[4
 
-]
-<GALLEYS/images/chapter1/diagram2.png, id=316, 271.76532pt x 130.23656pt>
-File: GALLEYS/images/chapter1/diagram2.png Graphic file (type png)
-<use GALLEYS/images/chapter1/diagram2.png>
-Package pdftex.def Info: GALLEYS/images/chapter1/diagram2.png  used on input li
-ne 21.
-(pdftex.def)             Requested size: 271.76465pt x 130.23624pt.
-
-Overfull \hbox (53.37384pt too wide) in paragraph at lines 21--24
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--30
-
- []
-
-<GALLEYS/images/chapter1/images1s.png, id=317, 504.08325pt x 285.4665pt>
-File: GALLEYS/images/chapter1/images1s.png Graphic file (type png)
-<use GALLEYS/images/chapter1/images1s.png>
-Package pdftex.def Info: GALLEYS/images/chapter1/images1s.png  used on input li
-ne 30.
-(pdftex.def)             Requested size: 247.75673pt x 140.30362pt.
-
-Overfull \hbox (29.36592pt too wide) in paragraph at lines 30--31
-[][] 
- []
-
-<GALLEYS/images/chapter1/images1f.png, id=318, 393.26926pt x 295.70474pt>
-File: GALLEYS/images/chapter1/images1f.png Graphic file (type png)
-<use GALLEYS/images/chapter1/images1f.png>
-Package pdftex.def Info: GALLEYS/images/chapter1/images1f.png  used on input li
-ne 32.
-(pdftex.def)             Requested size: 202.82097pt x 152.50676pt.
-
-Overfull \vbox (5.88739pt too high) has occurred while \output is active []
-
-
+]) (LAYOUT/CHAPTER/chapter1.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -1578,25 +1536,92 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[6 <./GALLEYS/images/chapter1/diagram01.png (PNG copy)> <./GALLEYS/images/chapt
-er1/diagram2.png (PNG copy)> <./GALLEYS/images/chapter1/images1s.png> <./GALLEY
-S/images/chapter1/images1f.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[5]
+Ch\uhorn \ohorn ng 1.
+<GALLEYS/images/chapter1/diagram01.png, id=310, 386.19281pt x 147.55125pt>
+File: GALLEYS/images/chapter1/diagram01.png Graphic file (type png)
+<use GALLEYS/images/chapter1/diagram01.png>
+Package pdftex.def Info: GALLEYS/images/chapter1/diagram01.png  used on input l
+ine 11.
+(pdftex.def)             Requested size: 386.19185pt x 147.55087pt.
+[6
+
+ <./GALLEYS/images/chapter1/diagram01.png (PNG copy)>]
+<GALLEYS/images/chapter1/diagram2.png, id=315, 271.76532pt x 130.23656pt>
+File: GALLEYS/images/chapter1/diagram2.png Graphic file (type png)
+<use GALLEYS/images/chapter1/diagram2.png>
+Package pdftex.def Info: GALLEYS/images/chapter1/diagram2.png  used on input li
+ne 14.
+(pdftex.def)             Requested size: 271.76465pt x 130.23624pt.
+
+Overfull \hbox (53.37384pt too wide) in paragraph at lines 14--17
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
 
  []
 
-<GALLEYS/images/chapter1/images2.png, id=325, 445.06274pt x 168.63pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+<GALLEYS/images/chapter1/images1s.png, id=316, 504.08325pt x 285.4665pt>
+File: GALLEYS/images/chapter1/images1s.png Graphic file (type png)
+<use GALLEYS/images/chapter1/images1s.png>
+Package pdftex.def Info: GALLEYS/images/chapter1/images1s.png  used on input li
+ne 23.
+(pdftex.def)             Requested size: 247.75673pt x 140.30362pt.
+
+Overfull \hbox (29.36592pt too wide) in paragraph at lines 23--24
+[][] 
+ []
+
+<GALLEYS/images/chapter1/images1f.png, id=317, 393.26926pt x 295.70474pt>
+File: GALLEYS/images/chapter1/images1f.png Graphic file (type png)
+<use GALLEYS/images/chapter1/images1f.png>
+Package pdftex.def Info: GALLEYS/images/chapter1/images1f.png  used on input li
+ne 25.
+(pdftex.def)             Requested size: 202.82097pt x 152.50676pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+<GALLEYS/images/chapter1/images2.png, id=318, 445.06274pt x 168.63pt>
 File: GALLEYS/images/chapter1/images2.png Graphic file (type png)
 <use GALLEYS/images/chapter1/images2.png>
 Package pdftex.def Info: GALLEYS/images/chapter1/images2.png  used on input lin
-e 38.
+e 31.
 (pdftex.def)             Requested size: 333.79623pt x 126.47218pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[7 <./GALLEYS/images/chapter1/diagram2.png (PNG copy)> <./GALLEYS/images/chapte
+r1/images1s.png> <./GALLEYS/images/chapter1/images1f.png>]
 <GALLEYS/images/chapter1/images3.png, id=326, 372.64218pt x 58.71938pt>
 File: GALLEYS/images/chapter1/images3.png Graphic file (type png)
 <use GALLEYS/images/chapter1/images3.png>
 Package pdftex.def Info: GALLEYS/images/chapter1/images3.png  used on input lin
-e 40.
+e 33.
 (pdftex.def)             Requested size: 372.64127pt x 58.71921pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
 ) (LAYOUT/CHAPTER/chapter2.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1606,7 +1631,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[7 <./GALLEYS/images/chapter1/images2.png> <./GALLEYS/images/chapter1/images3.p
+[8 <./GALLEYS/images/chapter1/images2.png> <./GALLEYS/images/chapter1/images3.p
 ng>]
 Ch\uhorn \ohorn ng 2.
 
@@ -1619,35 +1644,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-[8
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-<GALLEYS/images/chapter2/diagram1.png, id=338, 375.804pt x 140.9265pt>
+<GALLEYS/images/chapter2/diagram1.png, id=333, 375.804pt x 140.9265pt>
 File: GALLEYS/images/chapter2/diagram1.png Graphic file (type png)
 <use GALLEYS/images/chapter2/diagram1.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/diagram1.png  used on input li
-ne 24.
+ne 16.
 (pdftex.def)             Requested size: 375.80309pt x 140.92615pt.
-<GALLEYS/images/chapter2/exdiagram.png, id=339, 375.804pt x 289.08pt>
+[9
+
+]
+<GALLEYS/images/chapter2/exdiagram.png, id=338, 375.804pt x 289.08pt>
 File: GALLEYS/images/chapter2/exdiagram.png Graphic file (type png)
 <use GALLEYS/images/chapter2/exdiagram.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/exdiagram.png  used on input l
-ine 30.
+ine 22.
 (pdftex.def)             Requested size: 375.80309pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -1656,38 +1672,72 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[9 <./GALLEYS/images/chapter2/diagram1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
-
- []
-
-<GALLEYS/images/chapter2/images1.png, id=344, 294.50024pt x 119.2455pt>
+[10 <./GALLEYS/images/chapter2/diagram1.png> <./GALLEYS/images/chapter2/exdiagr
+am.png>]
+<GALLEYS/images/chapter2/images1.png, id=343, 294.50024pt x 119.2455pt>
 File: GALLEYS/images/chapter2/images1.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images1.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images1.png  used on input lin
-e 37.
+e 29.
 (pdftex.def)             Requested size: 236.01563pt x 95.56937pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 37--41
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 29--33
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 
  []
 
-<GALLEYS/images/chapter2/images2.png, id=345, 444.4605pt x 75.8835pt>
+<GALLEYS/images/chapter2/images2.png, id=344, 444.4605pt x 75.8835pt>
 File: GALLEYS/images/chapter2/images2.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images2.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images2.png  used on input lin
-e 42.
+e 34.
 (pdftex.def)             Requested size: 444.45941pt x 75.8833pt.
+<GALLEYS/images/chapter2/images3.png, id=345, 227.6505pt x 65.043pt>
+File: GALLEYS/images/chapter2/images3.png Graphic file (type png)
+<use GALLEYS/images/chapter2/images3.png>
+Package pdftex.def Info: GALLEYS/images/chapter2/images3.png  used on input lin
+e 37.
+(pdftex.def)             Requested size: 227.64993pt x 65.04283pt.
+
+Overfull \hbox (9.25912pt too wide) in paragraph at lines 37--39
+[][] 
+ []
+
+<GALLEYS/images/chapter2/images4.png, id=346, 360.1455pt x 357.7365pt>
+File: GALLEYS/images/chapter2/images4.png Graphic file (type png)
+<use GALLEYS/images/chapter2/images4.png>
+Package pdftex.def Info: GALLEYS/images/chapter2/images4.png  used on input lin
+e 41.
+(pdftex.def)             Requested size: 236.01563pt x 234.43648pt.
+<GALLEYS/images/chapter2/images5.png, id=347, 324.61275pt x 271.61475pt>
+File: GALLEYS/images/chapter2/images5.png Graphic file (type png)
+<use GALLEYS/images/chapter2/images5.png>
+Package pdftex.def Info: GALLEYS/images/chapter2/images5.png  used on input lin
+e 42.
+(pdftex.def)             Requested size: 236.01563pt x 197.48137pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 41--43
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Overfull \vbox (20.40489pt too high) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -1696,112 +1746,65 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[10 <./GALLEYS/images/chapter2/exdiagram.png> <./GALLEYS/images/chapter2/images
-1.png> <./GALLEYS/images/chapter2/images2.png>]
-<GALLEYS/images/chapter2/images3.png, id=350, 227.6505pt x 65.043pt>
-File: GALLEYS/images/chapter2/images3.png Graphic file (type png)
-<use GALLEYS/images/chapter2/images3.png>
-Package pdftex.def Info: GALLEYS/images/chapter2/images3.png  used on input lin
-e 45.
-(pdftex.def)             Requested size: 227.64993pt x 65.04283pt.
-
-Overfull \hbox (9.25912pt too wide) in paragraph at lines 45--47
-[][] 
- []
-
-<GALLEYS/images/chapter2/images4.png, id=351, 360.1455pt x 357.7365pt>
-File: GALLEYS/images/chapter2/images4.png Graphic file (type png)
-<use GALLEYS/images/chapter2/images4.png>
-Package pdftex.def Info: GALLEYS/images/chapter2/images4.png  used on input lin
-e 49.
-(pdftex.def)             Requested size: 236.01563pt x 234.43648pt.
-<GALLEYS/images/chapter2/images5.png, id=352, 324.61275pt x 271.61475pt>
-File: GALLEYS/images/chapter2/images5.png Graphic file (type png)
-<use GALLEYS/images/chapter2/images5.png>
-Package pdftex.def Info: GALLEYS/images/chapter2/images5.png  used on input lin
-e 50.
-(pdftex.def)             Requested size: 236.01563pt x 197.48137pt.
-
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 49--51
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
-
- []
-
+[11 <./GALLEYS/images/chapter2/images1.png> <./GALLEYS/images/chapter2/images2.
+png> <./GALLEYS/images/chapter2/images3.png> <./GALLEYS/images/chapter2/images4
+.png> <./GALLEYS/images/chapter2/images5.png>]
 <GALLEYS/images/chapter2/images6.png, id=353, 501.67426pt x 320.397pt>
 File: GALLEYS/images/chapter2/images6.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images6.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images6.png  used on input lin
-e 62.
+e 54.
 (pdftex.def)             Requested size: 501.67302pt x 320.39621pt.
 <GALLEYS/images/chapter2/images7.png, id=354, 449.88075pt x 407.121pt>
 File: GALLEYS/images/chapter2/images7.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images7.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images7.png  used on input lin
-e 65.
+e 57.
 (pdftex.def)             Requested size: 449.87965pt x 407.12001pt.
 <GALLEYS/images/chapter2/images8.png, id=355, 645.612pt x 440.847pt>
 File: GALLEYS/images/chapter2/images8.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images8.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images8.png  used on input lin
-e 67.
+e 59.
 (pdftex.def)             Requested size: 500.4919pt x 274.50623pt.
 <GALLEYS/images/chapter2/images9.png, id=356, 641.39626pt x 440.847pt>
 File: GALLEYS/images/chapter2/images9.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images9.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images9.png  used on input lin
-e 69.
+e 61.
 (pdftex.def)             Requested size: 500.49258pt x 305.01215pt.
 <GALLEYS/images/chapter2/images10.png, id=357, 522.15076pt x 260.77425pt>
 File: GALLEYS/images/chapter2/images10.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images10.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images10.png  used on input li
-ne 72.
+ne 64.
 (pdftex.def)             Requested size: 500.50214pt x 244.01367pt.
 <GALLEYS/images/chapter2/images11.png, id=358, 357.13425pt x 151.16475pt>
 File: GALLEYS/images/chapter2/images11.png Graphic file (type png)
 <use GALLEYS/images/chapter2/images11.png>
 Package pdftex.def Info: GALLEYS/images/chapter2/images11.png  used on input li
-ne 75.
+ne 67.
 (pdftex.def)             Requested size: 500.49133pt x 183.0183pt.
 
-Overfull \hbox (1.18903pt too wide) in paragraph at lines 52--77
+Overfull \hbox (1.18903pt too wide) in paragraph at lines 44--69
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--77
+Underfull \hbox (badness 10000) in paragraph at lines 44--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--77
+Underfull \hbox (badness 10000) in paragraph at lines 44--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--77
+Underfull \hbox (badness 10000) in paragraph at lines 44--69
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--77
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[11 <./GALLEYS/images/chapter2/images3.png> <./GALLEYS/images/chapter2/images4.
-png> <./GALLEYS/images/chapter2/images5.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -1829,7 +1832,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
 [14 <./GALLEYS/images/chapter2/images8.png> <./GALLEYS/images/chapter2/images9.
-png>]) (LAYOUT/CHAPTER/chapter3.tex
+png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -1840,44 +1843,53 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [15 <./GALLEYS/images/chapter2/images10.png> <./GALLEYS/images/chapter2/images1
 1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+) (LAYOUT/CHAPTER/chapter3.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[16]
 Ch\uhorn \ohorn ng 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-<GALLEYS/images/chapter3/diagram1.png, id=385, 497.4585pt x 316.7835pt>
+<GALLEYS/images/chapter3/diagram1.png, id=384, 497.4585pt x 316.7835pt>
 File: GALLEYS/images/chapter3/diagram1.png Graphic file (type png)
 <use GALLEYS/images/chapter3/diagram1.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/diagram1.png  used on input li
-ne 19.
+ne 12.
 (pdftex.def)             Requested size: 500.484pt x 318.72102pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 19--27
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 12--20
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--27
+Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
  []
 
-[16
+[17
 
 ]
 
@@ -1888,59 +1900,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[17 <./GALLEYS/images/chapter3/diagram1.png>]
-<GALLEYS/images/chapter3/images1.png, id=395, 258.9675pt x 233.673pt>
+[18 <./GALLEYS/images/chapter3/diagram1.png>]
+<GALLEYS/images/chapter3/images1.png, id=394, 258.9675pt x 233.673pt>
 File: GALLEYS/images/chapter3/images1.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images1.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images1.png  used on input lin
-e 29.
+e 22.
 (pdftex.def)             Requested size: 236.01563pt x 212.97078pt.
-<GALLEYS/images/chapter3/images2.png, id=396, 390.258pt x 351.11176pt>
+<GALLEYS/images/chapter3/images2.png, id=395, 390.258pt x 351.11176pt>
 File: GALLEYS/images/chapter3/images2.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images2.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images2.png  used on input lin
-e 30.
+e 23.
 (pdftex.def)             Requested size: 236.01563pt x 212.34021pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 29--31
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 22--24
 [][] 
  []
 
 
-Overfull \hbox (4.05516pt too wide) in paragraph at lines 32--36
+Overfull \hbox (4.05516pt too wide) in paragraph at lines 25--29
 \T5/cmr/m/n/12 name(String),description(String),vegetarian(boolean),price(doubl
 e) c¡c thuëc t½nh n y ·u câ ph¤m
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--36
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
 
  []
 
-<GALLEYS/images/chapter3/images3.png, id=397, 483.0045pt x 433.62pt>
+<GALLEYS/images/chapter3/images3.png, id=396, 483.0045pt x 433.62pt>
 File: GALLEYS/images/chapter3/images3.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images3.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images3.png  used on input lin
-e 37.
+e 30.
 (pdftex.def)             Requested size: 500.48505pt x 311.12767pt.
-<GALLEYS/images/chapter3/images4.png, id=398, 511.31026pt x 268.00125pt>
+<GALLEYS/images/chapter3/images4.png, id=397, 511.31026pt x 268.00125pt>
 File: GALLEYS/images/chapter3/images4.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images4.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images4.png  used on input lin
-e 38.
+e 31.
 (pdftex.def)             Requested size: 500.51108pt x 292.81075pt.
 
-Overfull \hbox (17.62587pt too wide) in paragraph at lines 37--45
+Overfull \hbox (17.62587pt too wide) in paragraph at lines 30--38
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
+Underfull \hbox (badness 10000) in paragraph at lines 30--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--45
+Underfull \hbox (badness 10000) in paragraph at lines 30--38
 
  []
 
@@ -1952,13 +1964,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[18 <./GALLEYS/images/chapter3/images1.png> <./GALLEYS/images/chapter3/images2.
+[19 <./GALLEYS/images/chapter3/images1.png> <./GALLEYS/images/chapter3/images2.
 png> <./GALLEYS/images/chapter3/images3.png>]
 <GALLEYS/images/chapter3/images5.png, id=406, 533.5935pt x 340.27126pt>
 File: GALLEYS/images/chapter3/images5.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images5.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images5.png  used on input lin
-e 47.
+e 40.
 (pdftex.def)             Requested size: 500.51135pt x 292.82486pt.
 
 
@@ -1969,15 +1981,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[19 <./GALLEYS/images/chapter3/images4.png>]
-<GALLEYS/images/chapter3/images6.png, id=413, 493.24275pt x 327.02174pt>
+[20 <./GALLEYS/images/chapter3/images4.png>]
+<GALLEYS/images/chapter3/images6.png, id=412, 493.24275pt x 327.02174pt>
 File: GALLEYS/images/chapter3/images6.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images6.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images6.png  used on input lin
-e 48.
+e 41.
 (pdftex.def)             Requested size: 500.5044pt x 292.82484pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--54
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 
  []
 
@@ -1989,34 +2001,34 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[20 <./GALLEYS/images/chapter3/images5.png> <./GALLEYS/images/chapter3/images6.
+[21 <./GALLEYS/images/chapter3/images5.png> <./GALLEYS/images/chapter3/images6.
 png>]
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
 
  []
 
-<GALLEYS/images/chapter3/images7.png, id=420, 202.95825pt x 90.93974pt>
+<GALLEYS/images/chapter3/images7.png, id=419, 202.95825pt x 90.93974pt>
 File: GALLEYS/images/chapter3/images7.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images7.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images7.png  used on input lin
-e 58.
+e 51.
 (pdftex.def)             Requested size: 236.01563pt x 105.7538pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 58--60
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 51--53
 [][]
  []
 
-<GALLEYS/images/chapter3/images8.png, id=421, 251.7405pt x 72.87225pt>
+<GALLEYS/images/chapter3/images8.png, id=420, 251.7405pt x 72.87225pt>
 File: GALLEYS/images/chapter3/images8.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images8.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images8.png  used on input lin
-e 63.
+e 56.
 (pdftex.def)             Requested size: 236.01563pt x 68.32089pt.
-<GALLEYS/images/chapter3/images9.png, id=422, 448.67625pt x 446.26724pt>
+<GALLEYS/images/chapter3/images9.png, id=421, 448.67625pt x 446.26724pt>
 File: GALLEYS/images/chapter3/images9.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images9.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images9.png  used on input lin
-e 66.
+e 59.
 (pdftex.def)             Requested size: 448.67516pt x 446.26614pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2026,17 +2038,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[21 <./GALLEYS/images/chapter3/images7.png> <./GALLEYS/images/chapter3/images8.
+[22 <./GALLEYS/images/chapter3/images7.png> <./GALLEYS/images/chapter3/images8.
 png>]
-Underfull \hbox (badness 10000) in paragraph at lines 68--72
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
 
  []
 
-<GALLEYS/images/chapter3/images10.png, id=429, 433.62pt x 475.7775pt>
+<GALLEYS/images/chapter3/images10.png, id=428, 433.62pt x 475.7775pt>
 File: GALLEYS/images/chapter3/images10.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images10.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images10.png  used on input li
-ne 73.
+ne 66.
 (pdftex.def)             Requested size: 500.51175pt x 427.03421pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2046,16 +2058,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[22 <./GALLEYS/images/chapter3/images9.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+[23 <./GALLEYS/images/chapter3/images9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--72
 
  []
 
-<GALLEYS/images/chapter3/images11.png, id=435, 440.847pt x 481.19775pt>
+<GALLEYS/images/chapter3/images11.png, id=434, 440.847pt x 481.19775pt>
 File: GALLEYS/images/chapter3/images11.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images11.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images11.png  used on input li
-ne 80.
+ne 73.
 (pdftex.def)             Requested size: 500.48549pt x 427.02377pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2065,12 +2077,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[23 <./GALLEYS/images/chapter3/images10.png>]
-<GALLEYS/images/chapter3/images12.png, id=441, 488.42474pt x 465.53925pt>
+[24 <./GALLEYS/images/chapter3/images10.png>]
+<GALLEYS/images/chapter3/images12.png, id=440, 488.42474pt x 465.53925pt>
 File: GALLEYS/images/chapter3/images12.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images12.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images12.png  used on input li
-ne 85.
+ne 78.
 (pdftex.def)             Requested size: 500.497pt x 244.00685pt.
 
 
@@ -2081,18 +2093,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[24 <./GALLEYS/images/chapter3/images11.png>]
+[25 <./GALLEYS/images/chapter3/images11.png>]
 <GALLEYS/images/chapter3/images13.png, id=447, 513.117pt x 511.31026pt>
 File: GALLEYS/images/chapter3/images13.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images13.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images13.png  used on input li
-ne 86.
+ne 79.
 (pdftex.def)             Requested size: 500.50238pt x 305.02527pt.
 <GALLEYS/images/chapter3/images14.png, id=448, 522.753pt x 445.665pt>
 File: GALLEYS/images/chapter3/images14.png Graphic file (type png)
 <use GALLEYS/images/chapter3/images14.png>
 Package pdftex.def Info: GALLEYS/images/chapter3/images14.png  used on input li
-ne 89.
+ne 82.
 (pdftex.def)             Requested size: 500.48117pt x 488.02972pt.
 
 
@@ -2103,8 +2115,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[25 <./GALLEYS/images/chapter3/images12.png> <./GALLEYS/images/chapter3/images1
-3.png>]) (LAYOUT/CHAPTER/chapter4.tex
+[26 <./GALLEYS/images/chapter3/images12.png> <./GALLEYS/images/chapter3/images1
+3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2113,30 +2129,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[26 <./GALLEYS/images/chapter3/images14.png>]
+[27 <./GALLEYS/images/chapter3/images14.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+) (LAYOUT/CHAPTER/chapter4.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[28]
 Ch\uhorn \ohorn ng 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-[27
-
-]
-<GALLEYS/images/chapter4/diagram1.png, id=464, 268.00125pt x 155.98276pt>
+<GALLEYS/images/chapter4/diagram1.png, id=463, 268.00125pt x 155.98276pt>
 File: GALLEYS/images/chapter4/diagram1.png Graphic file (type png)
 <use GALLEYS/images/chapter4/diagram1.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/diagram1.png  used on input li
-ne 26.
+ne 19.
 (pdftex.def)             Requested size: 268.00058pt x 155.98238pt.
-<GALLEYS/images/chapter4/diagram2.png, id=465, 375.804pt x 210.18526pt>
+[29
+
+]
+<GALLEYS/images/chapter4/diagram2.png, id=468, 375.804pt x 210.18526pt>
 File: GALLEYS/images/chapter4/diagram2.png Graphic file (type png)
 <use GALLEYS/images/chapter4/diagram2.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/diagram2.png  used on input li
-ne 29.
+ne 22.
 (pdftex.def)             Requested size: 375.80309pt x 210.18474pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--38
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
@@ -2148,60 +2188,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[28 <./GALLEYS/images/chapter4/diagram1.png> <./GALLEYS/images/chapter4/diagram
+[30 <./GALLEYS/images/chapter4/diagram1.png> <./GALLEYS/images/chapter4/diagram
 2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 39--42
-
- []
-
-<GALLEYS/images/chapter4/images1.png, id=470, 292.6935pt x 143.93774pt>
+<GALLEYS/images/chapter4/images1.png, id=473, 292.6935pt x 143.93774pt>
 File: GALLEYS/images/chapter4/images1.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images1.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images1.png  used on input lin
-e 42.
+e 35.
 (pdftex.def)             Requested size: 236.01563pt x 116.0662pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 42--43
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 35--36
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-<GALLEYS/images/chapter4/images3.png, id=471, 278.2395pt x 140.9265pt>
+<GALLEYS/images/chapter4/images3.png, id=474, 278.2395pt x 140.9265pt>
 File: GALLEYS/images/chapter4/images3.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images3.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images3.png  used on input lin
-e 50.
+e 43.
 (pdftex.def)             Requested size: 278.23882pt x 140.92615pt.
-<GALLEYS/images/chapter4/images4.png, id=472, 280.6485pt x 148.1535pt>
+<GALLEYS/images/chapter4/images4.png, id=475, 280.6485pt x 148.1535pt>
 File: GALLEYS/images/chapter4/images4.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images4.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images4.png  used on input lin
-e 55.
+e 48.
 (pdftex.def)             Requested size: 212.41261pt x 112.1344pt.
-<GALLEYS/images/chapter4/images5.png, id=473, 248.72925pt x 140.9265pt>
+<GALLEYS/images/chapter4/images5.png, id=476, 248.72925pt x 140.9265pt>
 File: GALLEYS/images/chapter4/images5.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images5.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images5.png  used on input lin
-e 56.
+e 49.
 (pdftex.def)             Requested size: 212.41261pt x 120.35362pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
 [][]
  []
 
-
-Overfull \vbox (6.81888pt too high) has occurred while \output is active []
-
-
+<GALLEYS/images/chapter4/images2.png, id=477, 426.393pt x 96.36pt>
+File: GALLEYS/images/chapter4/images2.png Graphic file (type png)
+<use GALLEYS/images/chapter4/images2.png>
+Package pdftex.def Info: GALLEYS/images/chapter4/images2.png  used on input lin
+e 52.
+(pdftex.def)             Requested size: 426.39195pt x 96.35974pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2210,48 +2248,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[29 <./GALLEYS/images/chapter4/images1.png> <./GALLEYS/images/chapter4/images3.
+[31 <./GALLEYS/images/chapter4/images1.png> <./GALLEYS/images/chapter4/images3.
 png> <./GALLEYS/images/chapter4/images4.png> <./GALLEYS/images/chapter4/images5
-.png>]
-<GALLEYS/images/chapter4/images2.png, id=482, 426.393pt x 96.36pt>
-File: GALLEYS/images/chapter4/images2.png Graphic file (type png)
-<use GALLEYS/images/chapter4/images2.png>
-Package pdftex.def Info: GALLEYS/images/chapter4/images2.png  used on input lin
-e 59.
-(pdftex.def)             Requested size: 426.39195pt x 96.35974pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--67
+.png> <./GALLEYS/images/chapter4/images2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
-<GALLEYS/images/chapter4/images6.png, id=483, 325.215pt x 201.75375pt>
+<GALLEYS/images/chapter4/images6.png, id=488, 325.215pt x 201.75375pt>
 File: GALLEYS/images/chapter4/images6.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images6.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images6.png  used on input lin
-e 69.
+e 62.
 (pdftex.def)             Requested size: 212.41261pt x 131.7787pt.
-<GALLEYS/images/chapter4/images7.png, id=484, 312.56775pt x 202.356pt>
+<GALLEYS/images/chapter4/images7.png, id=489, 312.56775pt x 202.356pt>
 File: GALLEYS/images/chapter4/images7.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images7.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images7.png  used on input lin
-e 70.
+e 63.
 (pdftex.def)             Requested size: 212.41261pt x 137.51688pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
 [][]
  []
 
-<GALLEYS/images/chapter4/images8.png, id=485, 355.3275pt x 316.18124pt>
+<GALLEYS/images/chapter4/images8.png, id=490, 355.3275pt x 316.18124pt>
 File: GALLEYS/images/chapter4/images8.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images8.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images8.png  used on input lin
-e 76.
+e 69.
 (pdftex.def)             Requested size: 355.32661pt x 316.18047pt.
-<GALLEYS/images/chapter4/images9.png, id=486, 319.1925pt x 52.39575pt>
+<GALLEYS/images/chapter4/images9.png, id=491, 319.1925pt x 52.39575pt>
 File: GALLEYS/images/chapter4/images9.png Graphic file (type png)
 <use GALLEYS/images/chapter4/images9.png>
 Package pdftex.def Info: GALLEYS/images/chapter4/images9.png  used on input lin
-e 77.
+e 70.
 (pdftex.def)             Requested size: 319.19171pt x 52.39561pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2261,8 +2292,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[30 <./GALLEYS/images/chapter4/images2.png> <./GALLEYS/images/chapter4/images6.
-png> <./GALLEYS/images/chapter4/images7.png>]) (LAYOUT/CHAPTER/chapter5.tex
+[32 <./GALLEYS/images/chapter4/images6.png> <./GALLEYS/images/chapter4/images7.
+png>]) (LAYOUT/CHAPTER/chapter5.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2271,73 +2302,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[31 <./GALLEYS/images/chapter4/images8.png> <./GALLEYS/images/chapter4/images9.
+[33 <./GALLEYS/images/chapter4/images8.png> <./GALLEYS/images/chapter4/images9.
 png>]
 Ch\uhorn \ohorn ng 5.
-[32
-
-]
-<GALLEYS/images/chapter5/diagram1.png, id=504, 375.804pt x 175.25475pt>
+<GALLEYS/images/chapter5/diagram1.png, id=503, 375.804pt x 175.25475pt>
 File: GALLEYS/images/chapter5/diagram1.png Graphic file (type png)
 <use GALLEYS/images/chapter5/diagram1.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/diagram1.png  used on input li
-ne 37.
+ne 20.
 (pdftex.def)             Requested size: 375.80309pt x 175.2543pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--41
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
 
  []
 
+[34
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[33 <./GALLEYS/images/chapter5/diagram1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-<GALLEYS/images/chapter5/images1.png, id=509, 468.5505pt x 204.765pt>
+<GALLEYS/images/chapter5/images1.png, id=508, 468.5505pt x 204.765pt>
 File: GALLEYS/images/chapter5/images1.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images1.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images1.png  used on input lin
-e 45.
+e 28.
 (pdftex.def)             Requested size: 500.484pt x 218.72768pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-<GALLEYS/images/chapter5/images2.png, id=510, 316.7835pt x 233.673pt>
-File: GALLEYS/images/chapter5/images2.png Graphic file (type png)
-<use GALLEYS/images/chapter5/images2.png>
-Package pdftex.def Info: GALLEYS/images/chapter5/images2.png  used on input lin
-e 58.
-(pdftex.def)             Requested size: 316.78271pt x 233.67242pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2346,16 +2342,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[34 <./GALLEYS/images/chapter5/images1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[35 <./GALLEYS/images/chapter5/diagram1.png> <./GALLEYS/images/chapter5/images1
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-<GALLEYS/images/chapter5/images3.png, id=516, 350.5095pt x 228.855pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<GALLEYS/images/chapter5/images2.png, id=514, 316.7835pt x 233.673pt>
+File: GALLEYS/images/chapter5/images2.png Graphic file (type png)
+<use GALLEYS/images/chapter5/images2.png>
+Package pdftex.def Info: GALLEYS/images/chapter5/images2.png  used on input lin
+e 41.
+(pdftex.def)             Requested size: 316.78271pt x 233.67242pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+<GALLEYS/images/chapter5/images3.png, id=515, 350.5095pt x 228.855pt>
 File: GALLEYS/images/chapter5/images3.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images3.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images3.png  used on input lin
-e 62.
+e 45.
 (pdftex.def)             Requested size: 350.50865pt x 228.85443pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2365,58 +2388,66 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[35 <./GALLEYS/images/chapter5/images2.png> <./GALLEYS/images/chapter5/images3.
-png>]
-<GALLEYS/images/chapter5/images4.png, id=523, 411.939pt x 366.77025pt>
+[36 <./GALLEYS/images/chapter5/images2.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[37 <./GALLEYS/images/chapter5/images3.png>]
+<GALLEYS/images/chapter5/images4.png, id=527, 411.939pt x 366.77025pt>
 File: GALLEYS/images/chapter5/images4.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images4.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images4.png  used on input lin
-e 66.
+e 49.
 (pdftex.def)             Requested size: 236.01563pt x 210.13573pt.
-<GALLEYS/images/chapter5/images5.png, id=524, 435.42674pt x 389.65575pt>
+<GALLEYS/images/chapter5/images5.png, id=528, 435.42674pt x 389.65575pt>
 File: GALLEYS/images/chapter5/images5.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images5.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images5.png  used on input lin
-e 67.
+e 50.
 (pdftex.def)             Requested size: 236.01563pt x 211.20767pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 66--68
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 49--51
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
-<GALLEYS/images/chapter5/images6.png, id=525, 318.59026pt x 148.75575pt>
+<GALLEYS/images/chapter5/images6.png, id=529, 318.59026pt x 148.75575pt>
 File: GALLEYS/images/chapter5/images6.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images6.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images6.png  used on input lin
-e 77.
+e 60.
 (pdftex.def)             Requested size: 236.01563pt x 110.20236pt.
-<GALLEYS/images/chapter5/images7.png, id=526, 420.97275pt x 198.7425pt>
+<GALLEYS/images/chapter5/images7.png, id=530, 420.97275pt x 198.7425pt>
 File: GALLEYS/images/chapter5/images7.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images7.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images7.png  used on input lin
-e 78.
+e 61.
 (pdftex.def)             Requested size: 236.01563pt x 111.4224pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 77--79
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 60--62
 [][]
  []
 
-<GALLEYS/images/chapter5/images8.png, id=527, 457.10776pt x 366.77025pt>
+<GALLEYS/images/chapter5/images8.png, id=531, 457.10776pt x 366.77025pt>
 File: GALLEYS/images/chapter5/images8.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images8.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images8.png  used on input lin
-e 84.
+e 67.
 (pdftex.def)             Requested size: 418.17276pt x 335.51675pt.
-<GALLEYS/images/chapter5/images9.png, id=528, 383.031pt x 283.65974pt>
+<GALLEYS/images/chapter5/images9.png, id=532, 383.031pt x 283.65974pt>
 File: GALLEYS/images/chapter5/images9.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images9.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images9.png  used on input lin
-e 85.
+e 68.
 (pdftex.def)             Requested size: 329.4879pt x 244.0071pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2426,7 +2457,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[36 <./GALLEYS/images/chapter5/images4.png> <./GALLEYS/images/chapter5/images5.
+[38 <./GALLEYS/images/chapter5/images4.png> <./GALLEYS/images/chapter5/images5.
 png> <./GALLEYS/images/chapter5/images6.png> <./GALLEYS/images/chapter5/images7
 .png>]
 
@@ -2437,16 +2468,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[37 <./GALLEYS/images/chapter5/images8.png> <./GALLEYS/images/chapter5/images9.
+[39 <./GALLEYS/images/chapter5/images8.png> <./GALLEYS/images/chapter5/images9.
 png>]
-<GALLEYS/images/chapter5/diagram2.png, id=544, 375.804pt x 290.2845pt>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[40]
+<GALLEYS/images/chapter5/diagram2.png, id=551, 375.804pt x 290.2845pt>
 File: GALLEYS/images/chapter5/diagram2.png Graphic file (type png)
 <use GALLEYS/images/chapter5/diagram2.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/diagram2.png  used on input li
-ne 103.
+ne 104.
 (pdftex.def)             Requested size: 375.80309pt x 290.28378pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--110
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
@@ -2458,45 +2508,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[41 <./GALLEYS/images/chapter5/diagram2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-
- []
-
-<GALLEYS/images/chapter5/images10.png, id=549, 306.54526pt x 214.401pt>
+<GALLEYS/images/chapter5/images10.png, id=556, 306.54526pt x 214.401pt>
 File: GALLEYS/images/chapter5/images10.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images10.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images10.png  used on input li
-ne 119.
+ne 120.
 (pdftex.def)             Requested size: 306.5445pt x 214.40047pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[39 <./GALLEYS/images/chapter5/diagram2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
-<GALLEYS/images/chapter5/images11.png, id=554, 490.83376pt x 395.076pt>
+<GALLEYS/images/chapter5/images11.png, id=557, 490.83376pt x 395.076pt>
 File: GALLEYS/images/chapter5/images11.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images11.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images11.png  used on input li
-ne 127.
+ne 128.
 (pdftex.def)             Requested size: 490.83255pt x 395.07503pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2506,16 +2538,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[40 <./GALLEYS/images/chapter5/images10.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[42 <./GALLEYS/images/chapter5/images10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 130--134
 
  []
 
-<GALLEYS/images/chapter5/images12.png, id=560, 440.24475pt x 399.29175pt>
+<GALLEYS/images/chapter5/images12.png, id=563, 440.24475pt x 399.29175pt>
 File: GALLEYS/images/chapter5/images12.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images12.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images12.png  used on input li
-ne 135.
+ne 136.
 (pdftex.def)             Requested size: 440.24368pt x 399.29077pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2525,12 +2557,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[41 <./GALLEYS/images/chapter5/images11.png>]
-<GALLEYS/images/chapter5/images13.png, id=565, 415.5525pt x 464.937pt>
+[43 <./GALLEYS/images/chapter5/images11.png>]
+<GALLEYS/images/chapter5/images13.png, id=569, 415.5525pt x 464.937pt>
 File: GALLEYS/images/chapter5/images13.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images13.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images13.png  used on input li
-ne 139.
+ne 140.
 (pdftex.def)             Requested size: 415.55148pt x 464.93585pt.
 
 
@@ -2541,12 +2573,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[42 <./GALLEYS/images/chapter5/images12.png>]
-<GALLEYS/images/chapter5/images14.png, id=571, 431.81325pt x 217.41225pt>
+[44 <./GALLEYS/images/chapter5/images12.png>]
+<GALLEYS/images/chapter5/images14.png, id=575, 431.81325pt x 217.41225pt>
 File: GALLEYS/images/chapter5/images14.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images14.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images14.png  used on input li
-ne 145.
+ne 146.
 (pdftex.def)             Requested size: 431.81218pt x 217.4117pt.
 
 
@@ -2557,19 +2589,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[43 <./GALLEYS/images/chapter5/images13.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[45 <./GALLEYS/images/chapter5/images13.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
-<GALLEYS/images/chapter5/images15.png, id=578, 376.40625pt x 419.166pt>
+<GALLEYS/images/chapter5/images15.png, id=581, 376.40625pt x 419.166pt>
 File: GALLEYS/images/chapter5/images15.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images15.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images15.png  used on input li
-ne 150.
+ne 151.
 (pdftex.def)             Requested size: 301.29196pt x 335.51675pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
@@ -2581,19 +2613,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[44 <./GALLEYS/images/chapter5/images14.png> <./GALLEYS/images/chapter5/images1
+[46 <./GALLEYS/images/chapter5/images14.png> <./GALLEYS/images/chapter5/images1
 5.png>]
-<GALLEYS/images/chapter5/images16.png, id=585, 409.53pt x 420.3705pt>
+<GALLEYS/images/chapter5/images16.png, id=588, 409.53pt x 420.3705pt>
 File: GALLEYS/images/chapter5/images16.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images16.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images16.png  used on input li
-ne 154.
+ne 155.
 (pdftex.def)             Requested size: 409.52899pt x 420.36948pt.
-<GALLEYS/images/chapter5/images17.png, id=586, 358.33875pt x 281.853pt>
+<GALLEYS/images/chapter5/images17.png, id=589, 358.33875pt x 281.853pt>
 File: GALLEYS/images/chapter5/images17.png Graphic file (type png)
 <use GALLEYS/images/chapter5/images17.png>
 Package pdftex.def Info: GALLEYS/images/chapter5/images17.png  used on input li
-ne 157.
+ne 158.
 (pdftex.def)             Requested size: 358.33788pt x 281.85231pt.
 
 
@@ -2604,8 +2636,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[45 <./GALLEYS/images/chapter5/images16.png>])
-Underfull \hbox (badness 10000) in paragraph at lines 159--101
+[47 <./GALLEYS/images/chapter5/images16.png>])
+Underfull \hbox (badness 10000) in paragraph at lines 160--101
 
  []
 
@@ -2618,54 +2650,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[46 <./GALLEYS/images/chapter5/images17.png>]
+[48 <./GALLEYS/images/chapter5/images17.png>]
 Ch\uhorn \ohorn ng 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-<GALLEYS/images/chapter6/example1.png, id=597, 431.211pt x 181.27725pt>
-File: GALLEYS/images/chapter6/example1.png Graphic file (type png)
-<use GALLEYS/images/chapter6/example1.png>
-Package pdftex.def Info: GALLEYS/images/chapter6/example1.png  used on input li
-ne 14.
-(pdftex.def)             Requested size: 431.20995pt x 181.27681pt.
-[47
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-<GALLEYS/images/chapter6/example2.png, id=602, 539.01375pt x 151.3153pt>
-File: GALLEYS/images/chapter6/example2.png Graphic file (type png)
-<use GALLEYS/images/chapter6/example2.png>
-Package pdftex.def Info: GALLEYS/images/chapter6/example2.png  used on input li
-ne 19.
-(pdftex.def)             Requested size: 539.01242pt x 151.31493pt.
-
-Overfull \hbox (38.52843pt too wide) in paragraph at lines 19--19
- [] 
- []
-
-<GALLEYS/images/chapter6/diagram.png, id=603, 322.20375pt x 187.45032pt>
+<GALLEYS/images/chapter6/diagram.png, id=600, 322.20375pt x 187.45032pt>
 File: GALLEYS/images/chapter6/diagram.png Graphic file (type png)
 <use GALLEYS/images/chapter6/diagram.png>
 Package pdftex.def Info: GALLEYS/images/chapter6/diagram.png  used on input lin
-e 25.
+e 13.
 (pdftex.def)             Requested size: 322.20296pt x 187.44984pt.
+[49
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.93912pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.93912pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
-
-[48 <./GALLEYS/images/chapter6/example1.png> <./GALLEYS/images/chapter6/example
-2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 42--44
+]
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
@@ -2677,26 +2673,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[49 <./GALLEYS/images/chapter6/diagram.png>]
-<GALLEYS/images/chapter6/code1.png, id=620, 526.96875pt x 225.84375pt>
+[50 <./GALLEYS/images/chapter6/diagram.png>]
+<GALLEYS/images/chapter6/code1.png, id=616, 526.96875pt x 225.84375pt>
 File: GALLEYS/images/chapter6/code1.png Graphic file (type png)
 <use GALLEYS/images/chapter6/code1.png>
 Package pdftex.def Info: GALLEYS/images/chapter6/code1.png  used on input line 
-45.
+33.
 (pdftex.def)             Requested size: 526.96745pt x 225.84319pt.
 
-Overfull \hbox (26.48346pt too wide) in paragraph at lines 45--45
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 33--33
  [] 
  []
 
-<GALLEYS/images/chapter6/code2.png, id=621, 526.96875pt x 225.84375pt>
+<GALLEYS/images/chapter6/code2.png, id=617, 526.96875pt x 225.84375pt>
 File: GALLEYS/images/chapter6/code2.png Graphic file (type png)
 <use GALLEYS/images/chapter6/code2.png>
 Package pdftex.def Info: GALLEYS/images/chapter6/code2.png  used on input line 
-49.
+37.
 (pdftex.def)             Requested size: 526.96745pt x 225.84319pt.
 
-Overfull \hbox (26.48346pt too wide) in paragraph at lines 49--49
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 37--37
  [] 
  []
 
@@ -2708,19 +2704,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[50 <./GALLEYS/images/chapter6/code1.png> <./GALLEYS/images/chapter6/code2.png>
+[51 <./GALLEYS/images/chapter6/code1.png> <./GALLEYS/images/chapter6/code2.png>
 ]
-<GALLEYS/images/chapter6/code3.png, id=628, 497.60907pt x 345.54094pt>
+<GALLEYS/images/chapter6/code3.png, id=624, 497.60907pt x 345.54094pt>
 File: GALLEYS/images/chapter6/code3.png Graphic file (type png)
 <use GALLEYS/images/chapter6/code3.png>
 Package pdftex.def Info: GALLEYS/images/chapter6/code3.png  used on input line 
-53.
+41.
 (pdftex.def)             Requested size: 497.60785pt x 345.54008pt.
-<GALLEYS/images/chapter6/code4.png, id=629, 487.8225pt x 385.44pt>
+<GALLEYS/images/chapter6/code4.png, id=625, 487.8225pt x 385.44pt>
 File: GALLEYS/images/chapter6/code4.png Graphic file (type png)
 <use GALLEYS/images/chapter6/code4.png>
 Package pdftex.def Info: GALLEYS/images/chapter6/code4.png  used on input line 
-63.
+51.
 (pdftex.def)             Requested size: 487.8213pt x 385.43906pt.
 
 
@@ -2731,7 +2727,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[51 <./GALLEYS/images/chapter6/code3.png>]) (LAYOUT/CHAPTER/chapter7.tex
+[52 <./GALLEYS/images/chapter6/code3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+<GALLEYS/images/chapter6/example1.png, id=635, 431.211pt x 181.27725pt>
+File: GALLEYS/images/chapter6/example1.png Graphic file (type png)
+<use GALLEYS/images/chapter6/example1.png>
+Package pdftex.def Info: GALLEYS/images/chapter6/example1.png  used on input li
+ne 57.
+(pdftex.def)             Requested size: 431.20995pt x 181.27681pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2740,17 +2746,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[52 <./GALLEYS/images/chapter6/code4.png>]
+[53 <./GALLEYS/images/chapter6/code4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+<GALLEYS/images/chapter6/example2.png, id=641, 539.01375pt x 151.3153pt>
+File: GALLEYS/images/chapter6/example2.png Graphic file (type png)
+<use GALLEYS/images/chapter6/example2.png>
+Package pdftex.def Info: GALLEYS/images/chapter6/example2.png  used on input li
+ne 64.
+(pdftex.def)             Requested size: 539.01242pt x 151.31493pt.
+
+Overfull \hbox (38.52843pt too wide) in paragraph at lines 64--64
+ [] 
+ []
+
+) (LAYOUT/CHAPTER/chapter7.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[54 <./GALLEYS/images/chapter6/example1.png> <./GALLEYS/images/chapter6/example
+2.png>]
 Ch\uhorn \ohorn ng 7.
-<GALLEYS/images/chapter7/diagram.png, id=644, 376.40625pt x 166.37157pt>
+<GALLEYS/images/chapter7/diagram.png, id=647, 376.40625pt x 166.37157pt>
 File: GALLEYS/images/chapter7/diagram.png Graphic file (type png)
 <use GALLEYS/images/chapter7/diagram.png>
 Package pdftex.def Info: GALLEYS/images/chapter7/diagram.png  used on input lin
-e 21.
+e 19.
 (pdftex.def)             Requested size: 376.40532pt x 166.37114pt.
-[53
+[55
 
-]) (LAYOUT/CHAPTER/chapter8.tex
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+<GALLEYS/images/chapter7/example.png, id=653, 376.40625pt x 225.84375pt>
+File: GALLEYS/images/chapter7/example.png Graphic file (type png)
+<use GALLEYS/images/chapter7/example.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/example.png  used on input lin
+e 33.
+(pdftex.def)             Requested size: 376.40532pt x 225.84319pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2759,21 +2806,288 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[54 <./GALLEYS/images/chapter7/diagram.png>]
+[56 <./GALLEYS/images/chapter7/diagram.png>]
+<GALLEYS/images/chapter7/code1.png, id=659, 376.40625pt x 166.37157pt>
+File: GALLEYS/images/chapter7/code1.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code1.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code1.png  used on input line 
+46.
+(pdftex.def)             Requested size: 376.40532pt x 166.37114pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[57 <./GALLEYS/images/chapter7/example.png> <./GALLEYS/images/chapter7/code1.pn
+g>]
+<GALLEYS/images/chapter7/code2.png, id=666, 376.40625pt x 47.42719pt>
+File: GALLEYS/images/chapter7/code2.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code2.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code2.png  used on input line 
+50.
+(pdftex.def)             Requested size: 376.40532pt x 47.42706pt.
+<GALLEYS/images/chapter7/code3.png, id=667, 376.40625pt x 146.79843pt>
+File: GALLEYS/images/chapter7/code3.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code3.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code3.png  used on input line 
+54.
+(pdftex.def)             Requested size: 376.40532pt x 146.79807pt.
+<GALLEYS/images/chapter7/code4.png, id=668, 376.40625pt x 147.55125pt>
+File: GALLEYS/images/chapter7/code4.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code4.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code4.png  used on input line 
+58.
+(pdftex.def)             Requested size: 376.40532pt x 147.55087pt.
+<GALLEYS/images/chapter7/code5.png, id=669, 451.6875pt x 261.97874pt>
+File: GALLEYS/images/chapter7/code5.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code5.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code5.png  used on input line 
+62.
+(pdftex.def)             Requested size: 451.68639pt x 261.9781pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[58 <./GALLEYS/images/chapter7/code2.png> <./GALLEYS/images/chapter7/code3.png>
+ <./GALLEYS/images/chapter7/code4.png>]
+<GALLEYS/images/chapter7/code6.png, id=677, 414.04688pt x 158.84344pt>
+File: GALLEYS/images/chapter7/code6.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code6.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code6.png  used on input line 
+66.
+(pdftex.def)             Requested size: 414.04585pt x 158.84305pt.
+<GALLEYS/images/chapter7/code7.png, id=678, 526.96875pt x 73.77562pt>
+File: GALLEYS/images/chapter7/code7.png Graphic file (type png)
+<use GALLEYS/images/chapter7/code7.png>
+Package pdftex.def Info: GALLEYS/images/chapter7/code7.png  used on input line 
+70.
+(pdftex.def)             Requested size: 526.96745pt x 73.77542pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 70--71
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[59 <./GALLEYS/images/chapter7/code5.png> <./GALLEYS/images/chapter7/code6.png>
+ <./GALLEYS/images/chapter7/code7.png>]) (LAYOUT/CHAPTER/chapter8.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[60]
 Ch\uhorn \ohorn ng 8.
-) (LAYOUT/CHAPTER/chapter9.tex [55
+<GALLEYS/images/chapter8/diagram.png, id=690, 451.6875pt x 166.37157pt>
+File: GALLEYS/images/chapter8/diagram.png Graphic file (type png)
+<use GALLEYS/images/chapter8/diagram.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/diagram.png  used on input lin
+e 15.
+(pdftex.def)             Requested size: 451.68639pt x 166.37114pt.
+[61
 
 ]
+<GALLEYS/images/chapter8/examplepic1.png, id=696, 451.6875pt x 271.0125pt>
+File: GALLEYS/images/chapter8/examplepic1.png Graphic file (type png)
+<use GALLEYS/images/chapter8/examplepic1.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/examplepic1.png  used on input
+ line 27.
+(pdftex.def)             Requested size: 451.68639pt x 271.01183pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[62 <./GALLEYS/images/chapter8/diagram.png>]
+<GALLEYS/images/chapter8/examplepic2.png, id=702, 451.6875pt x 143.03438pt>
+File: GALLEYS/images/chapter8/examplepic2.png Graphic file (type png)
+<use GALLEYS/images/chapter8/examplepic2.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/examplepic2.png  used on input
+ line 31.
+(pdftex.def)             Requested size: 451.68639pt x 143.03401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[63 <./GALLEYS/images/chapter8/examplepic1.png> <./GALLEYS/images/chapter8/exam
+plepic2.png>]
+<GALLEYS/images/chapter8/code1.png, id=709, 317.68687pt x 59.47218pt>
+File: GALLEYS/images/chapter8/code1.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code1.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code1.png  used on input line 
+37.
+(pdftex.def)             Requested size: 317.68608pt x 59.47203pt.
+<GALLEYS/images/chapter8/code2.png, id=710, 604.50844pt x 138.5175pt>
+File: GALLEYS/images/chapter8/code2.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code2.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code2.png  used on input line 
+41.
+(pdftex.def)             Requested size: 604.50696pt x 138.51715pt.
+
+Overfull \hbox (104.02296pt too wide) in paragraph at lines 41--42
+ [] 
+ []
+
+<GALLEYS/images/chapter8/code3.png, id=711, 682.04813pt x 136.25906pt>
+File: GALLEYS/images/chapter8/code3.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code3.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code3.png  used on input line 
+45.
+(pdftex.def)             Requested size: 682.04646pt x 136.25871pt.
+
+Overfull \hbox (181.56247pt too wide) in paragraph at lines 45--46
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[64 <./GALLEYS/images/chapter8/code1.png> <./GALLEYS/images/chapter8/code2.png>
+ <./GALLEYS/images/chapter8/code3.png>]
+<GALLEYS/images/chapter8/code4.png, id=719, 676.02562pt x 195.73125pt>
+File: GALLEYS/images/chapter8/code4.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code4.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code4.png  used on input line 
+50.
+(pdftex.def)             Requested size: 676.02396pt x 195.73076pt.
+
+Overfull \hbox (175.53996pt too wide) in paragraph at lines 50--51
+ [] 
+ []
+
+<GALLEYS/images/chapter8/code5.png, id=720, 526.96875pt x 182.18062pt>
+File: GALLEYS/images/chapter8/code5.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code5.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code5.png  used on input line 
+54.
+(pdftex.def)             Requested size: 526.96745pt x 182.18016pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 54--55
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[65 <./GALLEYS/images/chapter8/code4.png> <./GALLEYS/images/chapter8/code5.png>
+]
+<GALLEYS/images/chapter8/code6.png, id=727, 526.96875pt x 183.68625pt>
+File: GALLEYS/images/chapter8/code6.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code6.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code6.png  used on input line 
+59.
+(pdftex.def)             Requested size: 526.96745pt x 183.68578pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 59--60
+ [] 
+ []
+
+<GALLEYS/images/chapter8/code7.png, id=728, 526.96875pt x 152.06813pt>
+File: GALLEYS/images/chapter8/code7.png Graphic file (type png)
+<use GALLEYS/images/chapter8/code7.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/code7.png  used on input line 
+63.
+(pdftex.def)             Requested size: 526.96745pt x 152.06775pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 63--64
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[66 <./GALLEYS/images/chapter8/code6.png> <./GALLEYS/images/chapter8/code7.png>
+]
+<GALLEYS/images/chapter8/app1.png, id=735, 376.40625pt x 219.82124pt>
+File: GALLEYS/images/chapter8/app1.png Graphic file (type png)
+<use GALLEYS/images/chapter8/app1.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/app1.png  used on input line 7
+2.
+(pdftex.def)             Requested size: 236.01563pt x 137.83739pt.
+<GALLEYS/images/chapter8/app2.png, id=736, 376.40625pt x 218.31563pt>
+File: GALLEYS/images/chapter8/app2.png Graphic file (type png)
+<use GALLEYS/images/chapter8/app2.png>
+Package pdftex.def Info: GALLEYS/images/chapter8/app2.png  used on input line 7
+3.
+(pdftex.def)             Requested size: 236.01563pt x 136.8933pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 72--74
+[][]
+ []
+
+) (LAYOUT/CHAPTER/chapter9.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[67 <./GALLEYS/images/chapter8/app1.png> <./GALLEYS/images/chapter8/app2.png>]
 Ch\uhorn \ohorn ng 9.
-<GALLEYS/images/chapter9/diagram.png, id=659, 376.40625pt x 126.4725pt>
+<GALLEYS/images/chapter9/diagram.png, id=744, 376.40625pt x 126.4725pt>
 File: GALLEYS/images/chapter9/diagram.png Graphic file (type png)
 <use GALLEYS/images/chapter9/diagram.png>
 Package pdftex.def Info: GALLEYS/images/chapter9/diagram.png  used on input lin
-e 18.
+e 16.
 (pdftex.def)             Requested size: 376.40532pt x 126.47218pt.
-[56
+[68
 
-]) (LAYOUT/CHAPTER/chapter10.tex
+ <./GALLEYS/images/chapter9/diagram.png>]
+<GALLEYS/images/chapter9/example.png, id=750, 489.32813pt x 142.28156pt>
+File: GALLEYS/images/chapter9/example.png Graphic file (type png)
+<use GALLEYS/images/chapter9/example.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/example.png  used on input lin
+e 30.
+(pdftex.def)             Requested size: 489.32692pt x 142.2812pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.93912pt, for example:
@@ -2782,42 +3096,264 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
 
-[57 <./GALLEYS/images/chapter9/diagram.png>]
-Ch\uhorn \ohorn ng 10.
-) [58
+[69 <./GALLEYS/images/chapter9/example.png>]
+<GALLEYS/images/chapter9/code1.png, id=756, 703.12688pt x 124.96687pt>
+File: GALLEYS/images/chapter9/code1.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code1.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code1.png  used on input line 
+35.
+(pdftex.def)             Requested size: 703.12515pt x 124.96657pt.
 
-] [59
+Overfull \hbox (202.64116pt too wide) in paragraph at lines 35--36
+ [] 
+ []
+
+<GALLEYS/images/chapter9/code2.png, id=757, 690.32906pt x 185.19188pt>
+File: GALLEYS/images/chapter9/code2.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code2.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code2.png  used on input line 
+39.
+(pdftex.def)             Requested size: 690.32738pt x 185.1914pt.
+
+Overfull \hbox (189.84338pt too wide) in paragraph at lines 39--40
+ [] 
+ []
+
+<GALLEYS/images/chapter9/code3.png, id=758, 652.68843pt x 187.45032pt>
+File: GALLEYS/images/chapter9/code3.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code3.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code3.png  used on input line 
+43.
+(pdftex.def)             Requested size: 652.68684pt x 187.44984pt.
+
+Overfull \hbox (152.20285pt too wide) in paragraph at lines 43--44
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[70 <./GALLEYS/images/chapter9/code1.png> <./GALLEYS/images/chapter9/code2.png>
+ <./GALLEYS/images/chapter9/code3.png>]
+<GALLEYS/images/chapter9/code4.png, id=766, 602.25pt x 159.59625pt>
+File: GALLEYS/images/chapter9/code4.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code4.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code4.png  used on input line 
+47.
+(pdftex.def)             Requested size: 602.24852pt x 159.59584pt.
+
+Overfull \hbox (101.76453pt too wide) in paragraph at lines 47--48
+ [] 
+ []
+
+<GALLEYS/images/chapter9/code5.png, id=767, 191.21437pt x 21.07875pt>
+File: GALLEYS/images/chapter9/code5.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code5.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code5.png  used on input line 
+51.
+(pdftex.def)             Requested size: 191.2139pt x 21.07867pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[71 <./GALLEYS/images/chapter9/code4.png> <./GALLEYS/images/chapter9/code5.png>
+]
+<GALLEYS/images/chapter9/code6.png, id=774, 602.25pt x 352.31625pt>
+File: GALLEYS/images/chapter9/code6.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code6.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code6.png  used on input line 
+56.
+(pdftex.def)             Requested size: 602.24852pt x 352.31538pt.
+
+Overfull \hbox (101.76453pt too wide) in paragraph at lines 56--57
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[72 <./GALLEYS/images/chapter9/code6.png>]
+<GALLEYS/images/chapter9/code7.png, id=780, 602.25pt x 300.3722pt>
+File: GALLEYS/images/chapter9/code7.png Graphic file (type png)
+<use GALLEYS/images/chapter9/code7.png>
+Package pdftex.def Info: GALLEYS/images/chapter9/code7.png  used on input line 
+61.
+(pdftex.def)             Requested size: 602.24852pt x 300.37144pt.
+
+Overfull \hbox (101.76453pt too wide) in paragraph at lines 61--62
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[73 <./GALLEYS/images/chapter9/code7.png>]) (LAYOUT/CHAPTER/chapter10.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[74]
+Ch\uhorn \ohorn ng 10.
+<GALLEYS/images/chapter10/diagram.png, id=791, 376.40625pt x 170.88844pt>
+File: GALLEYS/images/chapter10/diagram.png Graphic file (type png)
+<use GALLEYS/images/chapter10/diagram.png>
+Package pdftex.def Info: GALLEYS/images/chapter10/diagram.png  used on input li
+ne 16.
+(pdftex.def)             Requested size: 376.40532pt x 170.88802pt.
+[75
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \kern 11.74713pt
-(hyperref)                removed on input line 120.
+ []
 
 
-LaTeX Warning: Empty `thebibliography' environment on input line 124.
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
-[60
+ []
+
+<GALLEYS/images/chapter10/code1.png, id=796, 526.96875pt x 474.27188pt>
+File: GALLEYS/images/chapter10/code1.png Graphic file (type png)
+<use GALLEYS/images/chapter10/code1.png>
+Package pdftex.def Info: GALLEYS/images/chapter10/code1.png  used on input line
+ 29.
+(pdftex.def)             Requested size: 526.96745pt x 474.27072pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 29--30
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[76 <./GALLEYS/images/chapter10/diagram.png>]
+<GALLEYS/images/chapter10/code2.png, id=802, 526.96875pt x 134.75343pt>
+File: GALLEYS/images/chapter10/code2.png Graphic file (type png)
+<use GALLEYS/images/chapter10/code2.png>
+Package pdftex.def Info: GALLEYS/images/chapter10/code2.png  used on input line
+ 32.
+(pdftex.def)             Requested size: 526.96745pt x 134.7531pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 32--33
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[77 <./GALLEYS/images/chapter10/code1.png>]
+<GALLEYS/images/chapter10/code3.png, id=808, 526.96875pt x 366.61969pt>
+File: GALLEYS/images/chapter10/code3.png Graphic file (type png)
+<use GALLEYS/images/chapter10/code3.png>
+Package pdftex.def Info: GALLEYS/images/chapter10/code3.png  used on input line
+ 35.
+(pdftex.def)             Requested size: 526.96745pt x 366.61879pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 35--36
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[78 <./GALLEYS/images/chapter10/code2.png> <./GALLEYS/images/chapter10/code3.pn
+g>]
+<GALLEYS/images/chapter10/code4.png, id=815, 526.96875pt x 137.7647pt>
+File: GALLEYS/images/chapter10/code4.png Graphic file (type png)
+<use GALLEYS/images/chapter10/code4.png>
+Package pdftex.def Info: GALLEYS/images/chapter10/code4.png  used on input line
+ 41.
+(pdftex.def)             Requested size: 526.96745pt x 137.76434pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 41--42
+ [] 
+ []
+
+<GALLEYS/images/chapter10/code5.png, id=816, 526.96875pt x 98.61844pt>
+File: GALLEYS/images/chapter10/code5.png Graphic file (type png)
+<use GALLEYS/images/chapter10/code5.png>
+Package pdftex.def Info: GALLEYS/images/chapter10/code5.png  used on input line
+ 45.
+(pdftex.def)             Requested size: 526.96745pt x 98.61818pt.
+
+Overfull \hbox (26.48346pt too wide) in paragraph at lines 45--46
+ [] 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.93912pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.93912pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.93912pt}.
+
+[79 <./GALLEYS/images/chapter10/code4.png> <./GALLEYS/images/chapter10/code5.pn
+g>] [80
 
 ] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7C0110C26AD3419EDDD1742B9D8CF251;8702.
+(rerunfilecheck)             Checksum: CE654380A6B83CD0FF812A6A0FD5D4B9;8777.
  ) 
 Here is how much of TeX's memory you used:
- 30893 strings out of 478659
- 633537 string characters out of 2843988
- 900029 words of memory out of 3000000
- 48264 multiletter control sequences out of 15000+600000
+ 31261 strings out of 478659
+ 646950 string characters out of 2843988
+ 900031 words of memory out of 3000000
+ 48603 multiletter control sequences out of 15000+600000
  418995 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,9n,106p,926b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 108i,9n,106p,1025b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\DELL 7480\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1200.pk><C:/Users/DELL 7480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex
 /vnr/vnbx12.pfb><C:/Users/DELL 7480/AppData/Local/Programs/MiKTeX/fonts/type1/v
 ntex/vnr/vnr12.pfb>
-Output written on main.pdf (60 pages, 2088683 bytes).
+Output written on main.pdf (80 pages, 3202622 bytes).
 PDF statistics:
- 727 PDF objects out of 1000 (max. 8388607)
- 129 named destinations out of 1000 (max. 500000)
- 831 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 879 PDF objects out of 1000 (max. 8388607)
+ 148 named destinations out of 1000 (max. 500000)
+ 993 words of extra memory for PDF output out of 10000 (max. 10000000)
 

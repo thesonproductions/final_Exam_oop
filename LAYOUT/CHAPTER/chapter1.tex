@@ -7,13 +7,6 @@ Trong design pattern, mẫu thiết kế Singleton Pattern được dùng để 
 \section{Mục đích sử dụng}
 Khi cần một đối tượng chính xác để điều phối hành động trên toàn hệ thống. Các hệ thống vận hành hiệu quả hơn khi chỉ có một đối tượng tồn tại hoặc hạn chế sự khởi tạo cho một số lượng đối tượng nhất định. Thuật ngữ này xuất phát từ khái niệm toán học của một singleton.
 
-\section{Singleton Pattern trong thực tế}
-Dưới đây là một số trường hợp sử dụng của Singleton Pattern thường gặp:
-\begin{itemize}
-\item	Vì class dùng Singleton chỉ tồn tại 1 Instance (thể hiện) nên nó thường được dùng cho các trường hợp giải quyết các bài toán cần truy cập vào các ứng dụng như: Shared resource, Logger, Configuration, Caching, Thread pool, …\\
-\item	Một số design pattern khác cũng sử dụng Singleton để triển khai: Abstract Factory, Builder, Prototype, Facade,…\\
-\item	Đã được sử dụng trong một số class của core java như: java.lang.Runtime, java.awt.Desktop.
-\end{itemize}
 \section{Mô hình cấu trúc}
 \includegraphics{GALLEYS/images/chapter1/diagram01}
 \begin{multicols}{2}
@@ -40,6 +33,14 @@ Ta có một construct với phạm vi là private (private ChocolateBoiler()) v
 \includegraphics{GALLEYS/images/chapter1/images3}
 \end{center}
 Có thể thầy chỉ có duy nhất một đối tượng được khởi tạo trong lớp dù có khai báo bao nhiêu lần đi nữa.
+
+\section{Singleton Pattern trong thực tế}
+Dưới đây là một số trường hợp sử dụng của Singleton Pattern thường gặp:
+\begin{itemize}
+	\item	Vì class dùng Singleton chỉ tồn tại 1 Instance (thể hiện) nên nó thường được dùng cho các trường hợp giải quyết các bài toán cần truy cập vào các ứng dụng như: Shared resource, Logger, Configuration, Caching, Thread pool, …\\
+	\item	Một số design pattern khác cũng sử dụng Singleton để triển khai: Abstract Factory, Builder, Prototype, Facade,…\\
+	\item	Đã được sử dụng trong một số class của core java như: java.lang.Runtime, java.awt.Desktop.
+\end{itemize}
 
 
 
